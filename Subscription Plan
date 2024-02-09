@@ -1,0 +1,1272 @@
+
+<!DOCTYPE html>
+<html lang="en-GB" class="no-js">
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Subscription Plan &#8211; SCI</title>
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="ICU &raquo; Feed" href="https://smileyscuisine.org/feed/" />
+		
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<link rel="shortcut icon" href="images/favicon.jpeg" type="image/x-icon"> 
+<link rel="apple-touch-icon" href="images/apple-touch-icon.jpeg">
+
+<link rel="stylesheet" href="css/reset.css" type="text/css" media="all">
+<link rel="stylesheet" href="css/layout.css" type="text/css" media="all">
+<link rel="stylesheet" href="css/style.css" type="text/css" media="all">
+<link rel="stylesheet" href="css/zerogrid.css" type="text/css" media="all">
+<link rel="stylesheet" href="css/responsive.css" type="text/css" media="all"> 
+<script type="text/javascript" src="js/jquery-1.6.js" ></script>
+<script type="text/javascript" src="js/cufon-yui.js"></script>
+<script type="text/javascript" src="js/cufon-replace.js"></script>  
+<script type="text/javascript" src="js/Forum_400.font.js"></script>
+<script type="text/javascript" src="js/atooltip.jquery.js"></script> 
+<script type="text/javascript" src="js/css3-mediaqueries.js"></script>
+
+            .mdp-liker-box .mdp-liker-buttons button {                    
+                background-color: rgba(255, 255, 255, 1);
+                border-color: rgba(255, 255, 255, 1);
+                color: rgba(90, 13, 7, 1);
+            }
+            .mdp-liker-box .mdp-liker-buttons button.mdp-active {
+                background-color: rgba(90, 13, 7, 1);
+                border-color: rgba(90, 13, 7, 1);                   
+                color: rgba(255, 255, 255, 1);                
+            }
+            
+</style>
+
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://internationalculinaryunion.com/wp-content/plugins/indeed-affiliate-pro/assets/js/public-functions.min.js?ver=1.1' id='uap-public-functions-js'></script>
+<script type='text/javascript' src='https://internationalculinaryunion.com/wp-content/plugins/indeed-membership-pro/assets/js/jquery-ui.min.js' id='ihc-jquery-ui-js'></script>
+<script type='text/javascript' id='ihc-front_end_js-js-extra'>
+/* <![CDATA[ */
+var ihc_site_url = "https:\/\/internationalculinaryunion.com";
+var ihc_ajax_url = "https:\/\/internationalculinaryunion.com\/wp-admin\/admin-ajax.php";
+var ihc_translated_labels = "{\"delete_level\":\"Are you sure you want to delete this level?\",\"cancel_level\":\"Are you sure you want to cancel this level?\"}";
+var ihcStripeMultiply = "100";
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://internationalculinaryunion.com/wp-content/plugins/indeed-membership-pro/assets/js/functions.min.js?ver=1.3' id='ihc-front_end_js-js'></script>
+<script type='text/javascript' src='https://internationalculinaryunion.com/wp-content/plugins/revslider/public/assets/js/revolution.tools.min.js?ver=6.0' id='tp-tools-js'></script>
+<script type='text/javascript' src='https://internationalculinaryunion.com/wp-content/plugins/revslider/public/assets/js/rs6.min.js?ver=6.1.0' id='revmin-js'></script>
+<script type='text/javascript' src='https://internationalculinaryunion.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70' id='jquery-blockui-js'></script>
+<script type='text/javascript' id='wc-add-to-cart-js-extra'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View basket","cart_url":"https:\/\/internationalculinaryunion.com\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://internationalculinaryunion.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=4.5.2' id='wc-add-to-cart-js'></script>
+<script type='text/javascript' src='https://internationalculinaryunion.com/wp-content/plugins/js_composer/assets/js/vendors/woocommerce-add-to-cart.js?ver=6.0.5' id='vc_woocommerce-add-to-cart-js-js'></script>
+<link rel="https://api.w.org/" href="https://internationalculinaryunion.com/wp-json/" /><link rel="alternate" type="application/json" href="https://internationalculinaryunion.com/wp-json/wp/v2/pages/2839" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://internationalculinaryunion.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://internationalculinaryunion.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.5.3" />
+<meta name="generator" content="WooCommerce 4.5.2" />
+<link rel="canonical" href="https://internationalculinaryunion.com/subscription-plan/" />
+<link rel='shortlink' href='https://internationalculinaryunion.com/?p=2839' />
+<link rel="alternate" type="application/json+oembed" href="https://internationalculinaryunion.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Finternationalculinaryunion.com%2Fsubscription-plan%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://internationalculinaryunion.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Finternationalculinaryunion.com%2Fsubscription-plan%2F&#038;format=xml" />
+<style class="dzsflb-button-styling"></style><meta name='uap-token' content='d408e25ec6'><meta name='ump-token' content='de5d02a692'>	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<meta name="generator" content="Powered by Slider Revolution 6.1.0 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<script type="text/javascript"> //<![CDATA[ 
+var tlJsHost = ((window.location.protocol == "https:") ? "https://secure.trust-provider.com/" : "http://www.trustlogo.com/");
+document.write(unescape("%3Cscript src='" + tlJsHost + "trustlogo/javascript/trustlogo.js' type='text/javascript'%3E%3C/script%3E"));
+//]]>
+</script><link rel="icon" href="https://internationalculinaryunion.com/wp-content/uploads/2019/09/cropped-No-background-Logo-2-s4-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://internationalculinaryunion.com/wp-content/uploads/2019/09/cropped-No-background-Logo-2-s4-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://internationalculinaryunion.com/wp-content/uploads/2019/09/cropped-No-background-Logo-2-s4-180x180.png" />
+<meta name="msapplication-TileImage" content="https://internationalculinaryunion.com/wp-content/uploads/2019/09/cropped-No-background-Logo-2-s4-270x270.png" />
+<script type="text/javascript">function setREVStartSize(a){try{var b,c=document.getElementById(a.c).parentNode.offsetWidth;if(c=0===c||isNaN(c)?window.innerWidth:c,a.tabw=void 0===a.tabw?0:parseInt(a.tabw),a.thumbw=void 0===a.thumbw?0:parseInt(a.thumbw),a.tabh=void 0===a.tabh?0:parseInt(a.tabh),a.thumbh=void 0===a.thumbh?0:parseInt(a.thumbh),a.tabhide=void 0===a.tabhide?0:parseInt(a.tabhide),a.thumbhide=void 0===a.thumbhide?0:parseInt(a.thumbhide),a.mh=void 0===a.mh||""==a.mh?0:a.mh,"fullscreen"===a.layout||"fullscreen"===a.l)b=Math.max(a.mh,window.innerHeight);else{for(var d in a.gw=Array.isArray(a.gw)?a.gw:[a.gw],a.rl)(void 0===a.gw[d]||0===a.gw[d])&&(a.gw[d]=a.gw[d-1]);for(var d in a.gh=void 0===a.el||""===a.el||Array.isArray(a.el)&&0==a.el.length?a.gh:a.el,a.gh=Array.isArray(a.gh)?a.gh:[a.gh],a.rl)(void 0===a.gh[d]||0===a.gh[d])&&(a.gh[d]=a.gh[d-1]);var e,f=Array(a.rl.length),g=0;for(var d in a.tabw=a.tabhide>=c?0:a.tabw,a.thumbw=a.thumbhide>=c?0:a.thumbw,a.tabh=a.tabhide>=c?0:a.tabh,a.thumbh=a.thumbhide>=c?0:a.thumbh,a.rl)f[d]=a.rl[d]<window.innerWidth?0:a.rl[d];for(var d in e=f[0],f)e>f[d]&&0<f[d]&&(e=f[d],g=d);var h=c>a.gw[g]+a.tabw+a.thumbw?1:(c-(a.tabw+a.thumbw))/a.gw[g];b=a.gh[g]*h+(a.tabh+a.thumbh)}void 0===window.rs_init_css&&(window.rs_init_css=document.head.appendChild(document.createElement("style"))),document.getElementById(a.c).height=b,window.rs_init_css.innerHTML+="#"+a.c+"_wrapper { height: "+b+"px }"}catch(a){console.log("Failure at Presize of Slider:"+a)}};</script>
+
+<!-- Custom CSS Codes
+
+========================================================= -->
+
+<style id="custom-style">
+			.logo img{
+		height: 15;
+	}	
+		
+		.woocommerce-pagination  a:hover,
+	.woocommerce-pagination  li .current,
+	.remodal .item-badge.item-badge-red,
+	.remodal .button.product_type_variable.add_to_cart_button,
+	.tm-woowishlist-item .add_to_cart_button, .form-style-4 label,
+	.product-item-1 .item-badge-red, #footer .about-us-one .social-icons .social-8 ul li,
+	.single-product div.product .woocommerce-product-gallery .woocommerce-product-gallery__trigger,
+	.single-product div.product .woocommerce-product-gallery .woocommerce-product-gallery__trigger:hover,
+	.single-product .fitness-single-product-layout .product-detail-1 .product .summary.entry-summary .add_to_cart_button:hover,
+	.single-product .fitness-single-product-layout .product-detail-1 .product .summary.entry-summary .ronby-view_wishlist-btn:hover,
+	.single-product .fitness-single-product-layout .product-detail-1 .product .summary.entry-summary .ronby-woocompare-button:hover,
+	.single-product .fitness-single-product-layout .product-detail-1 .product .summary.entry-summary .ronby-view-compare-btn:hover,
+	.single-product .fitness-single-product-layout .product-detail-1 .social-6 li:hover,
+	.single-product .fitness-single-product-layout .view-cart.btn:hover,
+	.woocommerce-cart-form .shop_table thead tr, #payment #place_order,
+	.woocommerce-cart-form .shop_table tr:last-child, .product-item-1 .item-badge-red, .product-item-4 .item-badge-red,.product-item-3 .item-badge-red,
+	.woocommerce-form.woocommerce-form-login.login .button, .woocommerce-form-coupon .button,
+	.cart_totals h2::after,
+	#customer_details h3::after,
+	#order_review_heading::after,
+	#order_review .shop_table thead,
+	.woocommerce-MyAccount-content .woocommerce-Address .woocommerce-Address-title h3::after,
+	.woocommerce-MyAccount-content form h3::after,
+	.cart-collaterals .cross-sells h2::after,
+	.tm-woowishlist-item .added_to_cart,
+	.shop_table thead tr,
+	.shop_table tr:last-child,
+	.cart_totals h2::after,
+	#customer_details h3::after,
+	#order_review_heading::after,
+	#order_review .shop_table thead,
+	.woocommerce-MyAccount-content .woocommerce-Address .woocommerce-Address-title h3::after,
+	.woocommerce-MyAccount-content form h3::after,
+	.remodal .item-badge.item-badge-red,
+	.fitness-section-feature-products .added_to_cart:hover,
+	.fitness-contact-form .button,
+	.layout-3 .error-404-sec .button-default:hover, .layout-3 .error-404-sec .btn-default:hover,
+	.srch_close, .calculator-box,
+	.class-detail .class-detail-header .class-infomation .class-price,
+	.section-timetable .timetable thead,
+	.detailed-team-member-item-2 .member-socials ul li a:hover,
+	.layout-3 .detailed-team-member-item-2 .member-socials ul li a,
+	.team-detail-2 .member-socials ul li a:hover,
+	.calculator-box .icon,
+	.social-10 li:hover,
+	.cart-table thead tr,
+	.cart-summary,
+	.cart-widget .cart-widget-title:after,
+	.contact-infomation-box-5 .contact-social li:hover,
+	.button-primary,
+	.button-secondary:hover,
+	.background-primary,
+	.background-secondary:hover,
+	.active-background-primary.active,
+	.hover-background-primary:hover,
+	.before-background-primary:before,
+	.after-background-primary:after,
+	.woocommerce a.button.wc-backward,
+	.fitness-section-teams .team-item-2 .member-socials li a,
+	.single-product .summary.entry-summary .ronby-view_wishlist-btn:hover,
+	.single-product .summary.entry-summary .ronby-woocompare-button:hover,
+	.single-product .summary.entry-summary .ronby-view-compare-btn:hover,
+	.single-product .summary.entry-summary .social-6 a:hover,
+	.construction-slider .section-title::after,
+	.page-header-2 .page-header-breadcrumb,
+	.header-2 .main-menu li.current-menu-item,.header-2 .main-menu li:hover > a,
+	.layout-1 .button-secondary, .timetable-box,
+	.comment-item-4 .reply-button:hover,
+	.shop_layout_group_table .add_to_cart_button:hover,
+	.shop_single_layout_upsells ul.products .added_to_cart:hover,
+	.single-product-cart-notice .view-cart.btn,
+	.shop_layout ul.products .added_to_cart:hover,
+	.fashion-section-feature-products .added_to_cart:hover,
+	.woocommerce-MyAccount-navigation li:nth-child(even),
+	a.added_to_cart:hover,
+	.service-item-2 .background-secondary,
+	.background-primary.p-120-0:hover,
+	.header-top .hover-background-secondary:hover,
+	.event-countdown-1.background-secondary,
+	.layout-1 .active-background-secondary.active,
+	.business-blog-section-element .blog-post-item-1 .post-date.background-secondary,
+	.product-item-4 .button-default:hover,
+	.header-top .button-secondary,
+	.construction-service-detail-2 ul li::before,
+	.fitness-photo-gallery-grid .tab.active,
+	.fitness-testimonial-slider-2 .owl-dot.active span,
+	.summary-content .btn-danger,
+	.ribbon2, .fashion-section-feature-products-2 .ribbon2,
+	.section-header-style-2 .separator.background-primary,
+	.post-featured, .portfolio-slider-one.blasa-section.portfolio-section-3,
+	.portfolio-slider-one .portfolio-owl .owl-dots button.active,
+	.fitness-section-feature-products-2 .sale-badge,
+	.about_us_eight .about_us_btn a:hover,
+	.service-section-nine .wrap_service:hover .service-icon,
+	.about_us_eight .about_us_btn a i, .business-feature-box-3 .about_ficon_2,
+	.bg-vdo-sec-one .rq-play-video:hover,
+	.bg-vdo-sec-one .row_processes_head .rq-play-video:hover,
+	.shop-feature-box .solution_more, .shop-feature-box .wrap_solution_img::before
+	{
+		background-color: rgba(217,176,86,1);
+	}
+	.product-item-1 .item-badge-red{
+		box-shadow: 0 0 0 3px rgba(217,176,86,1), 0px 21px 5px -18px rgba(0,0,0,0.6);
+	}
+	@media (max-width: 991px) {
+	.article-with-overlay-5 .arrow
+	{
+		background-color: rgba(217,176,86,1);
+	}
+	}
+	@media (min-width: 992px) {
+	.article-with-overlay-5:hover .arrow
+	{
+		background-color: rgba(217,176,86,1);
+	}
+	}
+	.food_layout_group_table .woocommerce-grouped-product-list-item__quantity a,
+	.construction-slider .owl-dot.active span,
+	.post-carousel-3 .owl-nav .owl-prev:hover,.post-carousel-3 .owl-nav .owl-next:hover,
+	.post-carousel-2 .owl-nav .owl-prev:hover,.post-carousel-2 .owl-nav .owl-next:hover,
+	.woocommerce-form.woocommerce-form-login.login .button,.woocommerce-form-coupon .button,
+	.wc-proceed-to-checkout .checkout-button,
+	.product .summary.entry-summary .ronby-woocompare-button:hover,
+	.ronby-style-selector-content h4,
+	#ronby_color_picker .button, .slider-dash-icon,
+	.portfolio-slider-one, .portfolio-slider-one .portfolio-owl .owl-nav button
+	{
+		background-color: rgba(217,176,86,1) !important;
+	}
+	.ribbon2::after{
+            border-left: 30px solid  rgba(217,176,86,1)!important;
+            border-right: 30px solid rgba(217,176,86,1)!important;
+    }	
+	.button-secondary, .button-primary:hover,
+	.background-secondary, .background-primary:hover,
+	.button-default:hover, .btn-default:hover,
+	.layout-1 .button-secondary:hover,
+	.service-item-2 .background-secondary:hover,
+	#rev_slider_1_1_wrapper .background-primary,
+	.business-blog-section-element .blog-post-item-1 .post-date.background-secondary:hover,
+	.business-testimonial-sec .owl-nav .background-primary,
+	.section-header-style-2 .background-primary,
+	.header-top .button-secondary:hover,
+	.bg-vdo-sec-one .rq-play-video
+	{
+		background-color: rgba(90,13,7,1);
+	}
+	.wc-proceed-to-checkout a.checkout-button:hover,
+	.woocommerce a.button.wc-backward:hover,
+	.food_layout_group_table .woocommerce-grouped-product-list-item__quantity a:hover,
+	.ot-button:hover{
+		background-color: rgba(90,13,7,1) !important;
+	}
+	.remodal #wcqv_contend .woocommerce-Price-amount,
+	.fitness-section-feature-products .product-price-1 ins,
+	.header-3 .main-menu li:hover > a,
+	.class-item .class-infomation .class-title:hover,
+	.class-detail .class-detail-header .class-infomation .class-title:hover,
+	.class-detail .class-detail-header .class-infomation .class-schedule .lb,
+	.team-item-2 .member-role,
+	.calculator-box .tabs-filter .tab:hover,
+	.plan-item .item-header .plan-price .plan-period,
+	.cart-table .cart-item-remove:hover,
+	.color-primary, .active-color-primary.active,
+	footer .ronby-doctors-list .color-secondary,
+	.post-comment-count.color-secondary,
+	.post-carousel-2 .color-secondary,
+	.widget-contact-infomation .color-secondary,
+	.hover-color-primary:hover, .before-color-primary:before,
+	.after-color-primary:after, .hover-color-primary:hover, .hover-color-secondary,
+	.animhead h2, .single-product .logged-in-as a,
+	.single-product #cancel-comment-reply-link,
+	.single-product .comment-notes, .single-product .comment-reply-link,
+	.construction-service-detail-2 h2 span,
+	.section-we-provide-services .section-title span,
+	.team-item-1 .name:hover, .article-with-overlay-4 .icon,
+	.question-item .item-title:hover, .header-2 .contact-infomation .icon,
+	.testimonial-slider-3 .item .item-author .author-description,
+	.header-4 .main-menu li:hover > a,
+	.header-1 .main-menu li.current-menu-item > a,.header-1 .main-menu li:hover > a,
+	.header-6 .main-menu li:hover > a,
+	.layout-6 .section-header-style-13 .section-sub-title,
+	.header-top .header-infomation .color-secondary,
+	ul.items-inline-block li.is-checked,
+	#sc-toggle-close i,
+	.construction-our-projects #filters .hover-color-primary,
+	.layout-3 .header-1 .list-contact-infomations i,
+	.plan-item .item-content ul li:before,
+	.header-4 .header-infomation li i,
+	.site-branding a.no-color, .section-header-style-2 .color-primary,
+	.fashion-section-feature-products-2 .product-action-buttons-1 a:hover,
+	.portfolio-slider-one .portfolio-owl .owl-nav button:hover,
+	.portfolio-slider-one a, .portfolio-slider-one a:hover,
+	.portfolio-slider-one .small-title, .about_us_eight .about_us_btn a,
+	.about_us_eight .about_us_btn a:hover i,
+	.about_us_eight a:hover, .small-title,
+	.service-section-nine .service-icon,
+	.business-heading-sec-3 .small-title,
+	.bg-vdo-sec-one a:hover,.rq-play-video,
+	.shop-feature-box .solution_more:hover,.shop-feature-box .wrap_solution:hover .solution_more,
+	.shop-feature-box a:hover, .shop-testimonial-slider .owl-nav i,
+	.fitness-section-feature-products-2 .product_type_button
+	{
+		color: rgba(217,176,86,1);
+	}
+	.color-secondary, .hover-color-primary, .hover-color-secondary:hover,
+	.single-product .logged-in-as a:hover,
+	footer .ronby-doctors-list .color-secondary:hover,
+	.single-product a:hover#cancel-comment-reply-link,
+	.single-product .comment-notes:hover,
+	.header-1 .list-contact-infomations i,
+	.post-comment-count.color-secondary:hover,
+	.post-carousel-2 .color-secondary:hover,
+	#rev_slider_1_1_wrapper .color-primary,
+	.construction-our-projects #filters .hover-color-primary:hover
+	{
+		color: rgba(90,13,7,1);
+	}
+	.single-product a.comment-reply-link.comment-reply.color-primary:hover,
+	.portfolio-slider-one a:hover{
+		color: rgba(90,13,7,1) !important;
+	}
+	#wcqv_contend ins .woocommerce-Price-amount,
+	.remodal #wcqv_contend ins .woocommerce-Price-amount
+	{
+		color: rgba(217,176,86,1) !important;
+	}
+	.tm-woowishlist-item, .portfolio-slider-one .portfolio-owl .owl-dots button.active::before
+	{
+		border-bottom-color: rgba(217,176,86,1);
+	}
+	.error-404-sec .button-default:hover,
+	.error-404-sec .btn-default:hover,
+	.border-color-primary,
+	.active-border-color-primary.active,
+	.hover-border-color-primary:hover,
+	.before-border-color-primary:before,
+	.after-border-color-primary:after,
+	.border-color-secondary:hover,
+	section.section-join-us.bdron .section-list-item,
+	.bordered-top-uls, .bordered-bottom-uls,
+	.single-product-cart-msg, .construction-slider .owl-dot.active,
+	.header-1 .main-menu .sub-menu,
+	.fitness-photo-gallery-grid .tab,
+	.fitness-testimonial-slider-2 .owl-dot.active,
+	.ribbon2::after, .button-primary, .about_us_eight .about_us_btn a,
+	.bg-vdo-sec-one .row_processes_head .rq-play-video:hover::after,
+	.bg-vdo-sec-one .row_processes_head .rq-play-video::after,
+	.shop-testimonial-slider .owl-nav i
+	{
+		border-color: rgba(217,176,86,1);
+	}
+	.border-color-secondary, .border-color-primary:hover,
+	.button-default:hover, .btn-default:hover{
+		border-color: rgba(90,13,7,1);
+	}
+		.blog-post-detail-3 .blog-post-content ul li:before,
+	.blog-post-detail-3 .blog-post-content a,
+	.comment-layout-three .list-comments .comment-item-3 a:not(.comment-reply),
+	.logged-in-as a, #cancel-comment-reply-link,
+	.comment-notes, .comment-reply-link,
+	.single-post #content .hover-color-primary, .single-post #content .hover-color-secondary:hover,
+	.single-post #content .ronby-doctors-list .hover-color-secondary,
+	.blog-section .hover-color-primary, .blog-section .hover-color-secondary:hover,
+	.widget-menu-1 .hover-color-primary a, .widget-menu-1 .hover-color-primary span,
+	.single-post #content .text-right.simple-pagenavi .hover-color-secondary
+	{
+		color: rgba(68,68,68,1);
+	}
+	.sidebar .widget-menu-1 li a:hover, .blog-section .color-primary,
+	.single-post #content .color-primary,
+	.single-post #content .hover-color-primary:hover, .single-post #content .hover-color-secondary,
+	.single-post #content .ronby-doctors-list .hover-color-secondary:hover,
+	.blog-section .hover-color-primary:hover, .blog-section .hover-color-secondary,
+	.widget-menu-1 .hover-color-primary:hover a, .widget-menu-1 .hover-color-primary:hover span,
+	.blog-post-item-4 .post-date, .logged-in-as a:hover,
+	a:hover#cancel-comment-reply-link,
+	.comment-notes:hover,
+	.blog-section .color-secondary, .blog-section .post-comment-count a,
+	.single-post #content .color-secondary, .single-post #content .post-comment-count a,
+	.blog-post-detail-2 .blog-post-header .post-author .post-date,
+	.blog-post-item-2 .post-author .post-date,
+	.layout-1 .section-light h2.title a:hover,
+	.comment-layout-two .comments-list .comment-item-2 a:not(.reply-button),
+	.blog-post-detail-2 a, .comment-item-4 .comment-content .comment-time,
+	.blog-post-detail-4 .post-sharing a:hover, .sidebar .widget-menu-8 li a:hover,
+	.sidebar .widget-menu-5 li a:hover, .sidebar .widget-post-item-3 .post-time,
+	.comment-item-1 .comment-time, .sidebar .widget_archive li a:hover,
+	.comment-layout-six a, .blog-post-detail-6 .blog-detail-content a,
+	.single-post #content .text-right.simple-pagenavi .hover-color-secondary:hover
+	{
+		color: rgba(217,176,86,1);
+	}
+	a.comment-reply-link.comment-reply.color-primary:hover{
+		color: rgba(217,176,86,1) !important;
+	}
+	.blockquote-3,
+	.single-post #content .button-secondary,
+	.single-post #content .background-secondary, .single-post #content .background-primary:hover,
+	.blog-section .button-secondary,
+	.blog-section .background-secondary, .blog-section .background-primary:hover,
+	.sidebar .subscription-widget-one .background-primary:hover,
+	.sidebar #searchform button:hover,
+	.layout-1.single-post #content .button-secondary,
+	.layout-1 .blog-section .button-secondary,
+	.bg2-featurebox-3 .img-box .postdate-box,
+	.blog-section .background-secondary.post-date:hover,
+	.single-post #content .background-secondary.post-date:hover,
+	.single-post #content .button-primary:hover,
+	.blog-section .button-primary:hover
+	{
+		background-color: rgba(68,68,68,1);
+	}
+	.blog-section .background-secondary:hover,	
+	.blog-section .button-primary,
+	.blog-section .button-secondary:hover,
+	.blog-section .background-primary,
+	.blog-section .active-background-primary.active,
+	.blog-section .hover-background-primary:hover,
+	.blog-section .before-background-primary:before,
+	.blog-section .after-background-primary:after,
+	.single-post #content.background-secondary:hover,
+	.single-post #content .button-primary,
+	.single-post #content .button-secondary:hover,
+	.single-post #content .background-primary,
+	.single-post #content .active-background-primary.active,
+	.single-post #content .hover-background-primary:hover,
+	.single-post #content .before-background-primary:before,
+	.single-post #content .after-background-primary:after,
+	.sidebar .subscription-widget-one .background-primary,
+	.blog-section .button-default:hover, .blog-section .btn-default:hover,
+	.single-post #content .button-default:hover, .single-post #content .btn-default:hover,
+	.blog-post-detail-2 .blog-post-content cite::before,
+	.blog-post-detail-2 .blog-post-header .post-taxonomies::after,
+	.list-style-2 .custom-dot, .layout-1 .section-light .button-primary,
+	.layout-1 .section-light .button-secondary:hover,
+	.blog-post-detail-2 .blog-post-content ul li::before,
+	.comment-item-4 .reply-button, .blockquote-4:after,
+	.social-7 a:hover,
+	.layout-1.single-post #content .button-secondary:hover,
+	.layout-1 .blog-section .button-secondary:hover,
+	.blog-detail .blog-content-5 input[type=submit],
+	.blog-detail .blog-content-5 .page-numbers.page-links .linkstyle,
+	.blog-detail .blog-content-5 .page-numbers.page-links a:hover .linkstyle,
+	.blog-post-detail-3 .blog-post-header .post-date,
+	.blog-section .background-secondary.post-date,
+	.blog-post-detail-4 .blog-post-content blockquote,
+	.blog-post-detail-4 .blog-post-content blockquote::after,
+	.single-post #content .background-secondary.post-date
+	{
+		background-color: rgba(217,176,86,1);
+	}
+	.fitness-contact-form .button,
+	.blog-section .border-color-secondary, .blog-section .border-color-primary:hover,
+	.single-post #content .border-color-secondary, .single-post #content .border-color-primary:hover,
+	.single-post #content .button-primary:hover
+	{
+		border-color: rgba(68,68,68,1);
+	}
+	.blog-section .border-color-primary,
+	.blog-section .active-border-color-primary.active,
+	.blog-section .hover-border-color-primary:hover,
+	.blog-section .before-border-color-primary:before,
+	.blog-section .after-border-color-primary:after,
+	.single-post #content .border-color-primary,
+	.single-post #content .active-border-color-primary.active,
+	.single-post #content .hover-border-color-primary:hover,
+	.single-post #content .before-border-color-primary:before,
+	.single-post #content .after-border-color-primary:after,
+	.blog-section .button-primary,
+	.single-post #content .button-primary
+	{
+		border-color: rgba(217,176,86,1);
+	}
+			.ronby-page-post-page, #content, section.brands-carousel{
+		background-color:rgba(245,245,245,1)	}
+	
+																			
+																																																																													
+																				#footer{
+		background-image:url(https://internationalculinaryunion.com/wp-content/uploads/2019/09/italian-food-BMY5NJP-k2.jpg);
+	}
+											#footer .inner-content {
+						padding-top:115px;
+									padding-bottom:55px;
+					}	
+					.copyright {
+			background-color:rgba(0,0,0,1)		}	
+				.copyright {
+			color:rgba(255,255,255,1)		}	
+			
+			#footer .about-us-one .widget-title{
+			color:rgba(255,255,255,1)		}	
+				#footer .about-us-one p,#footer .about-us-one .list-unstyled li{
+			color:rgba(255,255,255,1)		}	
+																							#footer .ronby-recent-post-widget .widget-title{
+			color:rgba(255,255,255,1)		}	
+				#footer .ronby-recent-post-widget .widget-post-item-5 .post-title,#footer .ronby-recent-post-widget .widget-post-item-5 .post-date{
+			color:rgba(255,255,255,1)		}	
+					#footer .ronby-instagram-feed .widget-title{
+			color:rgba(255,255,255,1)		}	
+																													.page-header-6{
+			background-image:url(https://internationalculinaryunion.com/wp-content/uploads/2019/09/food-frame-pasta-ingredients-P6LYYW5-k2.jpg);
+
+			background-size: cover;
+		}	
+																																						#page-header.page-header-6{
+						padding-top:160px;
+									padding-bottom:115px;
+						
+		}	
+		@media (min-width: 768px){
+.comment-layout-three .list-comments .children{
+    margin-left: 100px;	
+}
+.single-product .comment-layout-three .list-comments .children{
+    margin-left: 0;	
+}
+}
+.comment-notes{
+	margin-bottom:35px;
+	font-size:13px;
+}
+.logged-in-as a{
+	font-size:13px;
+	font-style:italic;	
+}
+.logged-in-as{
+	margin-bottom:30px;
+}
+#cancel-comment-reply-link{
+	font-size:13px;
+	font-style:italic;
+	text-transform: capitalize;
+}
+
+ table{
+     width:100%;
+     border: 1px solid #dee2e6;
+     margin-bottom:20px;
+}
+ table a{
+     color:#000;
+     padding:5px;
+     border-radius: 5px;
+}
+table th, table td {
+     padding: 9px 12px;
+     vertical-align: top;
+     border-top: 1px solid #dee2e6;
+	 display:table-cell;
+}
+.sidebar table th, .sidebar table td {
+     padding: 7.8px;
+}
+table thead th{
+     vertical-align: bottom;
+     border-bottom: 2px solid #dee2e6;
+}
+table tbody + tbody{
+     border-top: 2px solid #dee2e6;
+}
+table tbody tr:nth-of-type(odd){
+     background-color: rgba(185, 176, 156, 0.36);
+}
+table tfoot tr:nth-of-type(odd) {
+    background-color: rgba(185, 176, 156, 0.36);
+}
+h1, h2, h3, h4, h5, h6 {
+    margin-top: .5rem;
+}
+#footer .subscription-widget-one .search-form button{
+	left: 84.5%;
+}
+.shop-single-product-layout .logged-in-as{
+	margin-bottom:0px;
+}
+.comment-notes{
+	margin-bottom:35px;
+	font-size:13px;
+	font-family: Poppins, san-serif;
+	font-style: italic;	
+	font-weight: 500;
+}
+.logged-in-as a{
+	font-size:13px;
+	font-family: Poppins, san-serif;
+}
+.logged-in-as{
+	margin-bottom:30px;
+}
+#cancel-comment-reply-link{
+	font-size:13px;
+	font-family: Poppins, san-serif;
+}
+.comment-reply-link{
+	font-size:13px;
+	font-weight:500;
+	font-family: Poppins, san-serif;
+}
+.ribbon1 {
+  position: absolute;
+  top: -6.1px;
+  right: 10px;
+  z-index:9;
+}
+.ribbon1::after {
+	position: absolute;
+    content: "";
+    width: 0;
+    height: 0;
+    border-left: 45px solid transparent;
+    border-right: 45px solid transparent;
+    border-top: 10px solid #FFB235;
+    right: 0px;
+}
+.ribbon1 span {
+  position: relative;
+  display: block;
+  text-align: center;
+  background: #FFB235;
+  font-size: 14px;
+  line-height: 1;
+  padding: 12px 8px 10px;
+  border-top-right-radius: 8px;
+  width: 90px;
+}
+.ribbon1 span::before, .ribbon1 span::after {
+  position: absolute;
+  content: "";
+}
+.ribbon1 span::before {
+ height: 6px;
+ width: 6px;
+ left: -6px;
+ top: 0;
+ background: #E5A02F;
+}
+.ribbon1 span::after {
+ height: 6px;
+ width: 8px;
+ left: -8px;
+ top: 0;
+ border-radius: 8px 8px 0 0;
+ background: #E5A02F;
+}
+</style>	
+		<style type="text/css" id="wp-custom-css">
+			.vc_col-has-fill>.vc_column-inner, .vc_row-has-fill+.vc_row-full-width+.vc_row>.vc_column_container>.vc_column-inner, .vc_row-has-fill+.vc_row>.vc_column_container>.vc_column-inner, .vc_row-has-fill>.vc_column_container>.vc_column-inner {
+	
+    padding-top: 0px;
+}
+
+.tablepress tfoot th, .tablepress thead th{
+	background-color: #D9B158;
+	color: #fff;
+}
+
+/*Mobile Table*/
+
+@media (max-width: 1100px){
+	#tablepress-4{
+		font-size: 10px;
+	}
+	#post-699 > div > div > div > div > div > div > section > div > h4{
+		font-size: 48px;
+	}
+	#post-699 > div > div > div > div > div > div > section > div > h2{
+		font-size: 36px;
+	}
+}
+
+@media (max-width: 991px){
+	#tablepress-4{
+		font-size: 12px;
+	}
+	#post-699 > div > div > div > div > div > div > section > div > h4{
+		font-size: 40px;
+	}
+	#post-699 > div > div > div > div > div > div > section > div > h2{
+		font-size: 30px;
+	}
+}
+
+@media (max-width: 960px){
+	#tablepress-4{
+		font-size: 8px;
+	}
+	#post-699 > div > div > div > div > div > div > section > div > h4{
+		font-size: 40px;
+	}
+	#post-699 > div > div > div > div > div > div > section > div > h2{
+		font-size: 30px;
+	}
+}
+
+@media (max-width: 767px){
+	#tablepress-4{
+		font-size: 14px;
+	}
+}
+
+@media (max-width: 680px){
+	#tablepress-4{
+		font-size: 10px;
+	}
+}
+
+@media (max-width: 460px){
+	#tablepress-4{
+		font-size: 8px;
+	}
+}
+
+#post-347 > div > div > div > div > div > div > section > div.row > div:nth-child(3) > div{
+	padding-top: 3%;
+}
+
+/*Shop Quic View buttons*/
+.product-item-1 .item-buttons {
+	display: none !important;
+}
+
+
+
+
+div.thumbnail.animate-zoom > a > img {
+	 -webkit-transform: none;
+    transform: none;
+}
+
+#custom_html-2 > h3, #custom_html-2 > div{
+	color: white;
+}
+
+.unclickable{
+	pointer-events: none;
+}
+
+@media(min-width: 1200px){
+	.randomed{
+		margin-top: -20%;
+		margin-bottom: -45%;
+	}
+}
+
+@media(min-width: 768px) and (max-width: 1199px){
+	.randomed{
+		margin-top: -30%;
+		margin-bottom: -50%;
+	}
+}
+
+@media(max-width: 767px){
+	.randomed{
+		margin-top: -10%;
+		margin-bottom: -10%;
+	}
+}
+
+.header-6 .main-menu .menu > li > a {
+	padding: 30px 10px;
+}
+
+
+#post-3843 > div > div > div> div > div > div > section > article{
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+#post-3843 > div > div > div{
+	padding-top: 0 !important;
+	padding-bottom: 0 !important;
+}
+
+#new_social_media_widget-2 > h3, #custom_html-3 > h3{
+	color: #fff;
+}
+
+
+/*BEGIN Facebook Feed on Homepage*/
+.fts-jal-fb-header, .fts-powered-by-text{
+	display: none;
+}
+.socialfeedheader > div > div > section > div {
+	background: none;
+}
+/*END Facebook Feed on Homepage*/
+
+/*Word-wrap title competitions*/
+.post-title{
+	word-break: normal;
+}
+
+/*BEGIN Single Event Page hide things*/
+.pec-events-template-default .blog-post-image{
+	display: none;
+}
+.pec-events-template-default .p-125-0-110{
+	padding-top: 32px;
+}
+.pec-events-template-default #page-header.page-header-6{
+	padding-top:0;
+	padding-bottom: 80px;
+}
+
+.pec-events-template-default #page-header > div > div > h4 {
+ padding-top: 140px;
+}
+.pec-events-template-default #page-header > div > div > h1 {
+  content:"";
+	visibility: hidden;
+	line-height: 0.5;
+}
+
+.pec-events-template-default #page-header > div > div > h1:after {
+	content:"Events";
+	display: flex;
+	justify-content: center;
+	visibility: visible;
+}
+/*END Single Event Page hide things*/
+
+
+.ihc-reg-success-msg{
+	display: none;
+}
+
+.ihc-background-overlay, .ihc-public-flag {
+	display: none !important;
+}
+
+/* Cover Photo Remove Uplaod button */
+#js_ihc_edit_top_ap_banner > div{ display: none;}
+
+
+p.stock.out-of-stock {
+    color: red !important;
+}
+
+/*Mobile logo*/
+@media (max-width: 768px){
+	#wrapper > nav > div.logo > a > 	img{
+		height: 5rem;
+	}
+}
+
+@media (max-width: 991px){
+	#wrapper > nav:before, #wrapper > nav:after{
+		content: normal !important;
+	}
+	.navbar-collapse {
+		height: auto;
+		max-height: 650px;
+	}
+}
+
+.contact-container{
+	display: flex;
+	flex-direction: column;
+}
+
+.contact-row{
+	display: flex;
+	flex-direction: row;
+}
+
+@media(max-width: 767px){
+	.contact-row{
+		flex-direction: column;
+	}
+}
+
+.contact-row__item{
+	padding: 30px;
+	width: 100%;
+}
+
+@media(max-width: 480px){
+	.contact-row__item{
+		padding: 15px;
+	}
+}
+
+.contact-row-radio .wpcf7-radio{
+	display: flex;
+	flex-direction: column;
+}
+
+.contact-row-radio .wpcf7-list-item{
+	padding: 12px 0;
+}
+
+#wpcf7-f4627-p4628-o1 > form > div.contact-container > div:nth-child(1) > div:nth-child(9) > span > span{
+	display: flex;
+	flex-direction: column;
+}
+
+.container-contacts{
+	display: flex;
+	justify-content: center;
+}
+
+#wpcf7-f4627-p4628-o1 > form > div.contact-container > div > div > span > input{
+	width: 100%;
+}
+
+.vc-hoverbox-wrapper.vc-hoverbox-width--100 .vc-hoverbox {
+    height: 400px;
+}
+
+#post-4743 > div > div > div:nth-child(5) > div{
+	padding: 0 20px;
+}
+
+.page-id-5274 .wpcf7-form-control-wrap > input, .page-id-5274 .wpcf7-form-control-wrap > textarea{
+	width: 95%;
+}
+
+
+/* Blog Post Helpful Hints - hide breadcrumbs and featured image */
+.post-description, .post-author-n-comments, .blog-post-header, .post-thumbnail{
+	display:none !important;
+}
+
+.iump-form-sublabel{
+	color: red !important;
+}
+
+@media (min-width: 992px){
+.col-lg-9 {
+    flex: 0 0 85%;
+	max-width: 85%;
+	}
+.col-lg-3 {
+    max-width: 15%;
+	}
+}		</style>
+		<noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head>
+<body class="page-template-default page page-id-2839 wp-embed-responsive theme-ronby woocommerce-no-js ronby restaurant-header-used layout-6 wpb-js-composer js-comp-ver-6.0.5 vc_responsive">
+
+    <!-- Start Page -->
+    <div id="wrapper">
+	<!-- Nav mobile -->
+		<nav class="nav-mobile navigation-mobile d-lg-none navbar navbar-expand-lg navbar-light">
+			                        <div class="logo">
+                        <a href="https://internationalculinaryunion.com" class="navbar-brand d-lg-none">
+                        <img src="https://internationalculinaryunion.com/wp-content/uploads/2019/09/No-background-Logo-2-s4.png" alt="logo">
+                        </a>
+                        </div>
+											<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#mobile-toggle-nav" aria-controls="mobile-toggle-nav" aria-expanded="false" aria-label="Toggle navigation">
+			<span class="navbar-toggler-icon"></span>
+			</button>
+			<div class="collapse navbar-collapse" id="mobile-toggle-nav">
+				<div class="menu-mobile">
+	            </div>					
+			</div>
+		</nav>
+	<!-- /Nav mobile -->
+
+	<!-- Header -->
+	<div id="header" class="header-6 header-transparent color-inverse">
+		<div class="overlay">
+			<div class="header-nav d-none d-lg-block">
+				<div class="container">
+					<div class="row align-items-center">
+						<div class="col-lg-3">
+			                        <div class="logo">
+                        <a href="https://internationalculinaryunion.com">
+                        <img src="https://internationalculinaryunion.com/wp-content/uploads/2019/09/No-background-Logo-2-s4.png" alt="logo">
+                        </a>
+                        </div>
+						
+									</div>
+						<div class="col-lg-9">
+							<div class="main-menu d-flex justify-content-end text-right">						
+                               
+                                <ul id="menu-the-icu-menu-1" class="menu clearfix"><li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-1010 "><a title="Home" href="https://internationalculinaryunion.com/" class="">Home</a></li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-727 "><a title="What Is All About" href="https://internationalculinaryunion.com/what-is-all-about/" class="">What Is All About</a></li>
+<li  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-593   "><a title="How to" href="#" aria-expanded="false" class="">How to</a>
+<ul role="menu" class="sub-menu   menu-depth-1" >
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-791 submenu-item"><a title="How To Become A Member" href="https://internationalculinaryunion.com/how-to-become-a-member/" class="">How To Become A Member</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-802 submenu-item"><a title="How to become a judge" href="https://internationalculinaryunion.com/how-to-become-an-icu-judge/" class="">How to become a judge</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-816 submenu-item"><a title="How to Get VIC Package?" href="https://internationalculinaryunion.com/how-to-get-vic-package/" class="">How to Get VIC Package?</a></li>
+</ul>
+</li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3569 "><a title="Competitor`s Info" href="https://internationalculinaryunion.com/competitors-info/" class="">Competitor`s Info</a></li>
+<li  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2720   "><a title="Gallery" href="#" aria-expanded="false" class="">Gallery</a>
+<ul role="menu" class="sub-menu   menu-depth-1" >
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2707 submenu-item"><a title="Competitions-2019/2020" href="https://internationalculinaryunion.com/competitions-2019-2020/" class="">Competitions-2019/2020</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2703 submenu-item"><a title="Competitions-2017/2018" href="https://internationalculinaryunion.com/competitions-2017-2018/" class="">Competitions-2017/2018</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2699 submenu-item"><a title="Competitions-2015/2016" href="https://internationalculinaryunion.com/competitions-2015-2016/" class="">Competitions-2015/2016</a></li>
+</ul>
+</li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-627 "><a title="Contacts" href="https://internationalculinaryunion.com/contacts/" class="">Contacts</a></li>
+<li  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5568 "><a title="Login" href="https://internationalculinaryunion.com/login" class="">Login</a></li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-2839 current_page_item menu-item-10210 "><a title="Register" href="https://internationalculinaryunion.com/subscription-plan/" class="">Register</a></li>
+</ul>							</div>
+
+						</div>
+									</div>
+				</div>			
+			</div>	
+		</div>
+	</div>
+	<!-- End Header -->	
+<!-- =-=-=-=-=-=-= PAGE HEADING SECTION =-=-=-=-=-=-= -->
+  	<div class="page-header-6 text-center" id="page-header">
+	<div class="overlay">
+		<div class="container">	
+
+				
+				
+		
+		 
+		
+		  <h1 class="page-header-title color-white">
+		  Subscription Plan		  </h1>
+		  
+						
+		
+					
+			
+		</div>		
+		</div>		
+	</div>
+<!-- =-=-=-=-=-=-= PAGE HEADING SECTION END =-=-=-=-=-=-= -->
+<section class="ronby-page-post-page sec-padding">
+    <div class="container">
+      <div class="row">
+        <div class="col-12 col-md-12">
+			
+				<!-- post grid -->		
+        <div class="ronby-post-block post-2839 page type-page status-publish hentry" id="post-2839">
+			<div class="col-12 col-md-12 nopadding">
+				<div class="text-box">
+					<style>.ich_level_wrap{}</style><div class="ich_level_wrap ihc_level_template_7"><div class="ihc-level-item"><div class="ihc-level-item-wrap"><div class="ihc-level-item-top"><div class="ihc-level-item-title">Demo Access</div></div><div class="ihc-level-item-price">0 €</div><div class="ihc-level-item-content"><p style="text-align: center;"><strong>Full access to limited ICU functionalities for a limited time of 1 month</strong></p></div><div class="ihc-level-item-bottom"><div onClick="ihcBuyNewLevel('https://smileyscuisine.org/register/?lid=1');" class="ihc-level-item-link " style="cursor: pointer;">Sign Up</div><div class="iump-clear"></div></div></div></div><div class="ihc-level-item"><div class="ihc-level-item-wrap"><div class="ihc-level-item-top"><div class="ihc-level-item-title">Junior Membership</div></div><div class="ihc-level-item-price">30 €</div><div class="ihc-level-item-content"><ul>
+ 	<li style="text-align: center;"><strong>Chef up to 21 years old</strong></li>
+ 	<li style="text-align: center;"><strong>or Student up to 25 years old</strong></li>
+ 	<li style="text-align: center;"><strong>Full Access to ALL ICU functionalities for 1 year</strong></li>
+</ul></div><div class="ihc-level-item-bottom"><div onClick="ihcBuyNewLevel('https://smileyscuisine.org/register/?lid=2');" class="ihc-level-item-link " style="cursor: pointer;">Sign Up</div><div class="iump-clear"></div></div></div></div><div class="ihc-level-item"><div class="ihc-level-item-wrap"><div class="ihc-level-item-top"><div class="ihc-level-item-title">Senior Membership</div></div><div class="ihc-level-item-price">50 €</div><div class="ihc-level-item-content"><ul>
+ 	<li style="text-align: center;"><strong>Chef over 21 years old</strong></li>
+ 	<li style="text-align: center;"><strong>Full Access to ALL ICU functionalities for 1 year</strong></li>
+</ul></div><div class="ihc-level-item-bottom"><div onClick="ihcBuyNewLevel('https://smileyscuisine.org/register/?lid=4');" class="ihc-level-item-link " style="cursor: pointer;">Sign Up</div><div class="iump-clear"></div></div></div></div></div>
+						
+				</div>
+			</div>
+		</div>
+				<div class="clearfix"></div>
+			<!-- Start Comment Section -->		
+		   		   <!-- End Comment Section -->
+	  </div>
+    </div>
+    </div>
+</section> 
+
+  <!-- end -->
+  <!-- Footer -->
+<footer id="footer" class="footer-6">
+    <div class="overlay">
+        <div class="container">
+            <div class="inner-content">
+                <div class="row">
+					<div class="col-md-4 col-sm-6 col-xs-12">
+	<div id="custom_html-3" class="widget_text widget widget_custom_html"><h3 class="widget-title">Videos &#038; Clips</h3><div class="textwidget custom-html-widget"><iframe width="300" src="https://www.youtube.com/embed/jarr3F5cpK8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></div>	</div>	
+	<div class="col-md-4 col-sm-6 col-xs-12">
+	<div id="custom_html-2" class="widget_text widget widget_custom_html"><h3 class="widget-title">Contacts</h3><div class="textwidget custom-html-widget">
+Office Phone:<br>
+<i class="fa fa-phone" aria-hidden="true" style="color:#D9B056"></i> +233 206698911<br>
+Mobile Phone:<br>
+<i class="fa fa-phone" aria-hidden="true" style="color:#D9B056"></i> +233 23<br>
+<i class="fa fa-phone" aria-hidden="true" style="color:#D9B056"></i> +233 206698911 - WhatsApp<br><br>
+<i class="fa fa-envelope-o" aria-hidden="true" style="color:#D9B056"></i> office@smileyscuisine.org<br><br>
+<i class="fa fa-map-marker" aria-hidden="true" style="color:#D9B056"></i> 18 Abotsi Street Road, Accra - Ghana
+</div></div><div id="custom_html-4" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><p style="text-align:center;"><script language="JavaScript" type="text/javascript">
+	</script></p></div></div>	</div>	
+	<div class="col-md-4 col-sm-6 col-xs-12">
+			<style>
+				.row .nsmw-div-87251 {
+			margin-bottom : px !important ;
+			margin-top : px !important ;
+			padding : 10px !important ;
+			background-color: !important ; 
+			clear: none !important;
+		}	
+		.social-media-link-87251 {
+			color: white !important ;
+		}
+		</style>		
+		<div id="new_social_media_widget-2" class="widget new_social_media_widget"><h3 class="widget-title">Social Media</h3>		<div class="row text-center">	
+							<a href="https://www.facebook.com/InternationalCulinaryUnion/" class="social-media-link-87251">
+					<div class="nsmw-div-87251 col-md-6 col-sm-6 col-xs-6">
+						<i class='fa fa-facebook fa-2x' aria-hidden='true'></i>
+					</div>
+				</a>
+															<a href="http://linkedin.com/company/international-culinary-union" class="social-media-link-87251"><div class="nsmw-div-87251 col-md-6 col-sm-6 col-xs-6"><i class='fa fa-linkedin fa-2x' aria-hidden='true'></i></div></a>
+									<a href="https://www.instagram.com/international_culinary_union/" class="social-media-link-87251"><div class="nsmw-div-87251 col-md-6 col-sm-6 col-xs-6"><i class='fa fa-instagram fa-2x' aria-hidden='true'></i></div></a>
+																					<a href="https://www.youtube.com/channel/UC5xoXPTHmpL-_hQpARD61uQ/videos?reload=9" class="social-media-link-87251"><div class="nsmw-div-87251 col-md-6 col-sm-6 col-xs-6"><i class='fa fa-youtube fa-2x' aria-hidden='true'></i></div></a>
+												<a href="https://chat.whatsapp.com/FhW3CZBPW7tAElm0tZaSDV" class="social-media-link-87251"><div class="nsmw-div-87251 col-md-6 col-sm-6 col-xs-6"><i class='fa fa-whatsapp fa-2x' aria-hidden='true'></i></div></a>
+									
+		</div>
+		</div>	</div>		
+          
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<!-- /Footer -->
+<!-- Copyright -->
+<div class="copyright text-center">
+    <div class="container"> 
+				<section class="col-2-3"><div class="wrap-col">
+						<img src="images/slogo.jpeg" alt=""> <h3>Smiley's Cuisine. | "Every Smile Count" <span></span></h3>
+					Copyrights &nbsp;&nbsp;&nbsp; &copy;&nbsp;&nbsp;2016 - 2021 &nbsp;&nbsp;-&nbsp;&nbsp;Smiley's Cuisine Incorporated. All Rights Reserved. <a href="https://www.smileyscuisine.org"></a>
+					</div></section>				
+				  
+	</div>
+</div>
+<!-- /Copyright -->
+</div>
+<!-- End Page -->
+
+        <div class="dzsflb-lightbox-controls " style="opacity:0; visibility: hidden;"><div class="dzsflb-lightbox-controls--bg"></div>
+
+            <div class="header-bottom-control header-bottom-control--account " data-type="account">
+				
+
+                <div class="user-menu--options">
+
+
+
+
+
+					<div class="tab-header-menu">
+                        <span class="tab-header-menu--item tab-header-menu--item--login active">Login</span>
+                        <span class="tab-header-menu--item tab-header-menu--item--register">Register</span>
+                        </div>
+                        <div class="dzsflb--content">
+                            <div class="dzsflb--content--login active">
+								
+		<form name="loginform" id="loginform" action="https://smileyscuisine.org/abs-admin/" method="post">
+			
+			<p class="login-username">
+				<label for="user_login">Username</label>
+				<input type="text" name="log" id="user_login" class="input" value="" size="20" />
+			</p>
+			<p class="login-password">
+				<label for="user_pass">Password</label>
+				<input type="password" name="pwd" id="user_pass" class="input" value="" size="20" />
+			</p>
+			
+			<p class="login-remember"><label><input name="rememberme" type="checkbox" id="rememberme" value="forever" checked="checked" /> Remember Me</label></p>
+			<hr><p class="login-submit">
+				<input type="submit" name="wp-submit" id="wp-submit" class="button button-primary" value="Log In" />
+				<input type="hidden" name="redirect_to" value="https://smileyscuisine.org" />
+			</p>
+			
+		</form></div>
+
+                            <div class="dzsflb--content--register"><form id="dzsflb-register-form" method="post" action="">
+									                                    <p>
+                                        <label>Username                                        </label>
+                                        <input class="" type="hidden" name="dzsflb_action" aria-required="true" value="register"/>
+                                        <input class="input" type="text" name="register_username" aria-required="true" value=""/>
+
+                                    </p>
+
+                                    <p>
+                                        <label>Email                                        </label>
+                                        <input  class="input" type="text" name="register_email" aria-required="true" value="" />
+                                    </p>
+
+                                    <p>
+                                        <label>Password                                        </label>
+                                        <input  class="input" type="password" name="register_password" aria-required="true" value="" />
+                                    </p>
+
+                                    <p class="confirm-password-p">
+                                        <label>Confirm password                                        </label>
+                                        <input  class="input" type="password" name="register_confirm_password" aria-required="true" value="" />
+                                    </p>
+
+									
+
+                                    <hr>
+                                    <p class="login-submit">
+
+										
+										                                        <button class="submit-button g-recaptcha" type="submit" value="register"  >Register</button>
+										                                    </p>
+                                </form></div></div>
+						                </div><!-- end user-menu--options -->
+
+
+
+            </div>
+			</div>
+		<!-- Instagram Feed JS -->
+<script type="text/javascript">
+var sbiajaxurl = "https://smileyscuisine.org/wp-admin/admin-ajax.php";
+</script>
+
+   	<script>
+   	jQuery(function(jQuery) {
+   	jQuery('#pagiloader').hide();	
+       jQuery('.fitness_shop_layout').on('click', '.page-numbers a', function(e){
+           e.preventDefault();
+           var link = jQuery(this).attr('href');
+           jQuery('.content').fadeOut(1500, function(){
+   			jQuery('#pagiloader').show();
+   			jQuery('html, body').animate({
+   			scrollTop: jQuery('.fitness_shop_layout').offset().top - 100
+   		}, 1000);
+               jQuery(this).load(link + ' .content', function() {
+   				jQuery('#pagiloader').hide();
+                   jQuery(this).fadeIn(1500);
+   				jQuery('.add_to_cart_button').click(function(){
+   				jQuery(this).find('.cart-loader').show();
+   			});				
+               });
+           });
+       });
+   });
+   </script>
+   	<script type="text/javascript">
+		var c = document.body.className;
+		c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+		document.body.className = c;
+	</script>
+	<link rel='stylesheet' id='nsmw-font-awesome-css-css'  href='https://internationalculinaryunion.com/wp-content/plugins/new-social-media-widget/css/font-awesome.css?ver=5.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='nsmw-bootstrap-css-css'  href='https://internationalculinaryunion.com/wp-content/plugins/new-social-media-widget/css/output-bootstrap.css?ver=5.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='nsmw-hover-min-css-css'  href='https://internationalculinaryunion.com/wp-content/plugins/new-social-media-widget/css/hover-min.css?ver=5.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='dzsflb-css'  href='https://internationalculinaryunion.com/wp-content/plugins/dzs-facebookloginbox/libs/facebookloginbox/facebookloginbox.css?ver=5.5.3' type='text/css' media='all' />
+<script type='text/javascript' id='contact-form-7-js-extra'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/internationalculinaryunion.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://internationalculinaryunion.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.3.2' id='contact-form-7-js'></script>
+<script type='text/javascript' id='mdp-liker-js-extra'>
+/* <![CDATA[ */
+var mdpLiker = {"url":"https:\/\/internationalculinaryunion.com\/wp-admin\/admin-ajax.php","reset_timestamp":"1599155040"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://internationalculinaryunion.com/wp-content/plugins/liker/js/liker.min.js?ver=1.1.9' id='mdp-liker-js'></script>
+<script type='text/javascript' src='https://internationalculinaryunion.com/wp-content/themes/ronby/js/bootstrap.min.js?ver=4.1.3' id='bootstrap-js'></script>
+<script type='text/javascript' src='https://internationalculinaryunion.com/wp-content/themes/ronby/js/owl.carousel.min.js?ver=2.3.4' id='owl-carousel-js'></script>
+<script type='text/javascript' src='https://internationalculinaryunion.com/wp-content/themes/ronby/js/custom-number-input-custom-script.js?ver=1.0.0' id='ronby-custom-number-input-custom-script-js'></script>
+<script type='text/javascript' src='https://internationalculinaryunion.com/wp-content/themes/ronby/js/hidden-search-form-custom.js?ver=1.0.0' id='ronby-hidden-search-form-custom-js'></script>
+<script type='text/javascript' src='https://internationalculinaryunion.com/wp-content/themes/ronby/js/toggle-custom-script.js?ver=1.0.0' id='ronby-toggle-custom-script-js'></script>
+<script type='text/javascript' src='https://internationalculinaryunion.com/wp-content/themes/ronby/js/lightbox/js/lightbox.js?ver=2.10.0' id='lightbox-js'></script>
+<script type='text/javascript' id='ivory-search-scripts-js-extra'>
+/* <![CDATA[ */
+var IvorySearchVars = {"is_analytics_enabled":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://internationalculinaryunion.com/wp-content/plugins/add-search-to-menu/public/js/ivory-search.min.js?ver=4.5.10' id='ivory-search-scripts-js'></script>
+<script type='text/javascript' src='https://internationalculinaryunion.com/wp-includes/js/wp-embed.min.js?ver=5.5.3' id='wp-embed-js'></script>
+<script type='text/javascript' src='https://internationalculinaryunion.com/wp-content/plugins/dzs-facebookloginbox/libs/facebookloginbox/facebookloginbox.js?ver=5.5.3' id='dzsflb-js'></script>
+</body>
+</html>

@@ -1,0 +1,773 @@
+
+
+
+
+
+
+<!DOCTYPE html 
+     PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html lang="en"><head title="Privacy Agreement" profile="http://www.w3.org/2005/10/profile"><link rel="icon" type="image/vnd.microsoft.icon" href="/careersection/favicon.jss" /><link rel="shortcut icon" type="image/vnd.microsoft.icon" href="/careersection/favicon.jss" /><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<title>Privacy Agreement</title>
+
+<script type="text/javascript">
+<!--
+var contextPath_ = "\/careersection";
+var buildVersion_ = "2020PRD.2.3.5.3.0";
+var useVerStatFiles_ = true;
+var tocPage_ = "\/careersection\/index.jsf";
+var sessionTimeoutUrl_ = "\/careersection\/hww_external\/jobsearch.ftl?lang=en";
+var messagesResGroupId_ = "992";
+var  richTextComponentResURL = "\/careersection\/UIResourceScript.jss?progId=richTextComponentRes&i=3998682&l=en";
+
+// -->
+</script>
+<script type="text/javascript" src="/careersection/2020PRD.2.3.5.3.0/akira/pub/js/akira-corec.js"></script>
+<link rel="stylesheet" type="text/css" href="/careersection/2020PRD.2.3.5.3.0/css/careersection_all.css" />
+<link rel="stylesheet" type="text/css" href="/careersection/2020PRD.2.3.5.3.0/UIStyleSheet.dcss?styleSheet=FTLHilton+Theme+v4.0&amp;timestamp=1610616005329" /><link rel="stylesheet" type="text/css" href="/careersection/2020PRD.2.3.5.3.0/UIStyleSheet.dcss?styleSheet=FTLHilton+Theme+v4.0&amp;timestamp=1610616005329" /><script type="text/javascript" src="/careersection/UIResourceScript.jss?progId=AccessibilityRes&amp;i=564090&amp;l=en"></script>
+<script type="text/javascript" src="/careersection/UIResourceScript.jss?progId=monthsRes&amp;i=265979&amp;l=en"></script>
+<script type="text/javascript" src="/careersection/UIResourceScript.jss?progId=monthsAbbrRes&amp;i=266197&amp;l=en"></script>
+<script type="text/javascript" src="/careersection/UIResourceScript.jss?progId=weekDaysRes&amp;i=265273&amp;l=en"></script>
+<script type="text/javascript" src="/careersection/UIResourceScript.jss?progId=weekDaysAbbrRes&amp;i=265419&amp;l=en"></script>
+<script type="text/javascript" src="/careersection/UIResourceScript.jss?progId=calendarRes&amp;i=261641&amp;l=en"></script>
+<script type="text/javascript" src="/careersection/UIResourceScript.jss?progId=calloutRes&amp;i=2899409&amp;l=en"></script>
+<script type="text/javascript" src="/careersection/UIResourceScript.jss?progId=securityRes&amp;i=992&amp;l=en"></script>
+<script type="text/javascript" src="/careersection/2020PRD.2.3.5.3.0/akira/pub/js/calendar-resources.js"></script>
+<script type="text/javascript" src="/careersection/2020PRD.2.3.5.3.0/js/common/jquery.min.js"></script>
+
+<script type="text/javascript">
+<!--
+var csrftoken="SMjnsonMnABcaEmFtkev6kPcqqHCCCR9OAEdIs9a4Dk=";
+// -->
+</script>
+<title>Hilton Careers</title><meta name="viewport" content="width=device-width, initial-scale=1"></meta><meta name="format-detection" content="telephone=no"></meta><link fn="http://www.w3.org/2005/xpath-functions" rel="shortcut icon" href="/careersection/theme/11611121/1610033166000/en/theme/images/favicon.png"></link><link fn="http://www.w3.org/2005/xpath-functions" class="tux-theme-css" href="/careersection/theme/11611121/1610033166000/en/theme/css/main.css" rel="stylesheet"></link></head>
+<body dir="ltr"><div class="tux-header">
+
+            <div class="container">
+
+                <div class="tux-mobile-nav">
+                </div>
+
+                <a class="home-button" href="https://jobs.hilton.com/" shape="rect"><img fn="http://www.w3.org/2005/xpath-functions" class="logo" src="/careersection/theme/11611121/1610033166000/en/theme/images/hilton-logo.svg" alt="Hilton Logo"></img></a>
+
+                <div>
+                </div>
+
+            </div>
+                    
+            </div><div class="tux-wrapper">
+            <form id="dialogTemplate-dialogForm" method="post" action="/careersection/careersection/privacyagreement/statementBeforeAuthentification.jsf" enctype="application/x-www-form-urlencoded"><input type="hidden" id="dialogTemplate-dialogFormvmVSIds" name="dialogTemplate-dialogFormvmVSIds" value="H4sIAAAAAAAAAFvzloG1hEFCPzmxKDW1qDg1uSQzP08/My8ltUIvqzitEgDUAUy9IAAAAA==" />
+<span class="accessmanagement"><span class="masterbody"><input id="dialogTemplate-dialogForm:flowHeader:ftlstate" type="hidden" name="dialogTemplate-dialogForm:flowHeader:ftlstate" /><input id="dialogTemplate-dialogForm:flowHeader:cshtstate" type="hidden" name="dialogTemplate-dialogForm:flowHeader:cshtstate" value="210380;1242457|" /><input id="dialogTemplate-dialogForm:flowHeader:Logged" type="hidden" name="dialogTemplate-dialogForm:flowHeader:Logged" value="false" />
+	
+    
+    
+	
+    
+    
+    
+	
+	<input type="hidden" name="iniurl.src" value="JB-11960" />
+
+    <script type="text/javascript" src="/careersection/2020PRD.2.3.5.3.0/js/mobile.js"></script>
+<script type="text/javascript" src="/careersection/2020PRD.2.3.5.3.0/js/integration/iframes_communication.js"></script>
+<script type="text/javascript" src="/careersection/2020PRD.2.3.5.3.0/js/integration/candidate_data_handler.js"></script>
+<script type="text/javascript">
+<!--
+
+        function crossFrameScripting()
+        {
+	    	// TT#157678 - Prevent Frame usage. (esamson)
+	    	//if (AgentUtils.isIE)
+	    	//{
+                try
+                {   
+                    if(self.document.domain.toString() != top.document.domain.toString())
+                    {
+                        throw "Access is denied";
+                    }
+                }
+                catch(exc) 
+                {
+                    if (top != self)
+                    {
+                        top.location=self.location;
+                    }
+                }
+			//}
+			// /TT#157678 - Prevent Frame usage. (esamson)
+        }
+        
+// -->
+</script>
+<script type="text/javascript">
+<!--
+
+			$(document).ready(function() {
+					window.setTimeout(function() {
+						$('.skype_pnh_container').html('');
+						$('.skype_pnh_print_container').removeClass('skype_pnh_print_container');
+					}, 500);
+				});
+	    
+// -->
+</script>
+<script type="text/javascript">
+<!--
+
+            function sendUIMessage2(msg)
+            {
+              if (!document.createElement)
+              {
+                return true;
+              }
+              
+              // Notify our Flex app to keep the http feedback in sync
+              if (AKCore.mainFlexControlId_ != null)
+              {
+                  var flexObject = document.getElementById(AKCore.mainFlexControlId_);
+                  if (flexObject && flexObject.notifyFlexUIMessage)
+                  {
+                      flexObject.notifyFlexUIMessage(msg);
+                  }
+              }
+              var url = contextPath_ + "/UIMessageReceiver.jss?msg=" + msg;
+              if (!msgSenderIFrame_ && document.createElement)
+              {
+                // create the IFrame and assign a reference to the
+                // object to our global variable msgSenderIFrame_.
+                // this will only happen the first time 
+                // sendUIMessage2() is called
+               try
+               {
+                  var tempIFrame=document.createElement('iframe');
+                  tempIFrame.setAttribute('id','RSIFrame');
+                  tempIFrame.style.border='0';
+                  tempIFrame.style.width='0';
+                  tempIFrame.style.height='0';
+                  tempIFrame.style.display='none';
+                  tempIFrame.style.visibility='hidden';
+                  tempIFrame.title='';
+                  tempIFrame.src = url;
+                  msgSenderIFrame_ = document.body.appendChild(tempIFrame);
+                  
+                  if (document.frames)
+                  {
+                    // this is for IE5 Mac, because it will only
+                    // allow access to the document object
+                    // of the IFrame if we access it through
+                    // the document.frames array
+                    msgSenderIFrame_ = document.frames['RSIFrame'];
+                  }
+                }
+                catch(exception)
+                {
+                  // This is for IE5 PC, which does not allow dynamic creation
+                  // and manipulation of an iframe object. Instead, we'll fake
+                  // it up by creating our own objects.
+                  iframeHTML='\<iframe id="RSIFrame" title="" style="';
+                  iframeHTML+='border:0;';
+                  iframeHTML+='width:0;';
+                  iframeHTML+='height:0;';
+                  iframeHTML+='display:none;';
+                  iframeHTML+='visibility:hidden;';
+                  iframeHTML+='"><\/iframe>';
+                  document.body.innerHTML+=iframeHTML;
+                  msgSenderIFrame_ = {};
+                  msgSenderIFrame_.document = {};
+                  msgSenderIFrame_.document.location = {};
+                  msgSenderIFrame_.document.location.iframe = document.getElementById('RSIFrame');
+                  msgSenderIFrame_.document.location.replace = function(location) {
+                    this.iframe.src = location;
+                  }
+                }
+              }
+              
+              if (navigator.userAgent.indexOf('Gecko') != -1
+                  && !msgSenderIFrame_.contentDocument)
+              {
+                // we have to give NS6 a fraction of a second
+                // to recognize the new IFrame
+                var func = "sendUIMessage2('" + url + "')";
+                setTimeout(func, 10);
+                return false;
+              }
+              
+              var iFrameDoc = getIFrameDoc(msgSenderIFrame_);
+              
+              if (iFrameDoc == null)
+              {
+                return true;
+              }
+              iFrameDoc.location.replace(url);
+              return false;
+            }
+  
+    
+        function onUnload(pEvent)
+        {
+            logViewInfo("unload");
+            // Invalidate the session when leaving the domain.
+            var ourForm = document.jsfForm();
+                // Invalidate the session when the window is explicitely closed.
+                var altUrl = ourForm['esmurl'];
+                
+            // Invalidate the session when leaving the domain.
+                var isLogged = findElementsEndingWithId(document, "Logged", null, true)[0];
+    
+                if (ourForm && ourForm['akPBISWLD'] && !ourForm['akPBISWLD'].dontcheckdomain && leavingDomain_ && isLogged.value == "true")
+            {
+                invalidateSession();
+                    
+                    if (altUrl != null)
+                    { 
+                      var tempIFrame=document.createElement('iframe');
+                      tempIFrame.setAttribute('id','RSIFrame');
+                      tempIFrame.style.border='0';
+                      tempIFrame.style.width='0';
+                      tempIFrame.style.height='0';
+                      tempIFrame.style.display='none';
+                      tempIFrame.style.visibility='hidden';
+                      tempIFrame.title='';
+                      tempIFrame.src = altUrl.value;
+                      document.body.appendChild(tempIFrame);
+                    } 
+            }
+        }
+        
+// -->
+</script>
+<script type="text/javascript">
+<!--
+
+		function redirectSession()
+		{
+			var expiredSessionUrl = findElementsEndingWithId(document, "expiredSessionUrl", null, true)[0];
+    		window.location = contextPath_ + expiredSessionUrl.value;
+		}
+		
+// -->
+</script>
+<script type="text/javascript">
+<!--
+
+			
+            function addEvent(el, evname, func)
+            {
+                if (el.attachEvent) { // IE
+                    el.attachEvent("on" + evname, func);
+                } else if (el.addEventListener) { // Gecko / W3C
+                    el.addEventListener(evname, func, true);
+                } else {
+                    el["on" + evname] = func;
+                }
+            }
+            
+            function moveSkipNavToTop()
+            {
+                var skipNavObj = findElementsEndingWithId(document, "gotoContent", null, true)[0];
+                
+                if (skipNavObj)
+                {
+                    skipNavObj.parentNode.removeChild(skipNavObj);
+                    document.body.insertBefore(skipNavObj, document.body.firstChild);
+                }
+            }
+            
+            addEvent(window, "load", moveSkipNavToTop);
+			
+			
+			/**
+			 * This method is used to find all H1, H2, H3, H4, H5 and H6 Tags in a HTML Page and if a Tag is empty,
+			 * it is removed from the DOM Tree for accessibility reason.
+			 * 
+			 * @since TT149196
+			 * @author esamson
+			 */ 
+			function removeEmptyHeading()
+			{
+				for (var i = 1; i <= 6; i++)
+				{
+					var headings = document.getElementsByTagName("h" + i.toString());
+					if (headings)
+					{
+				    	for (var hi = 0; hi < headings.length; hi++) 
+					    {
+							var heading = headings[hi];
+							
+							if (heading)
+							{
+								var text;
+								
+								if (document.all)
+								{
+									// IE.
+									text = heading.innerText;
+								}
+								else
+								{
+									// FireFox.
+									text = heading.textContent;
+								}
+								
+								// IE and FireFox have different representations of an empty content.
+								if (text == "" || text == " ")
+								{
+									heading.parentNode.removeChild(heading);
+									// "headings" variable is an array, so when 1 node is removed from the Dom Tree,
+									// the array is updated too.  So to avoid the next Tag to not be validated, we
+									// decrement the iterator counter for each element removed.
+									hi--;
+								}
+							}
+				        }
+					}
+				}
+			}
+			
+			addEvent(window, "load", removeEmptyHeading);
+			
+            
+            function unloadMess()
+            {
+                var mess =  ""; 
+    
+                // Invalidate the session when leaving the domain.
+                var ourForm = document.jsfForm();
+        
+                var isLogged = findElementsEndingWithId(document, "Logged", null, true)[0];
+        
+                if (ourForm && ourForm['akPBISWLD'] && !ourForm['akPBISWLD'].dontcheckdomain && leavingDomain_ && isLogged.value == "true" && !sessionExpired)
+                {
+                    var field = findElementsEndingWithId(document, "ISWLDMessage", null, true)[0];
+                    
+                    if (field)
+                    {
+                        return field.value;
+                    }
+                }
+                
+                return;
+            }
+            
+            addEvent(window, "beforeunload", unloadMess);
+            
+        
+// -->
+</script>
+<a id="dialogTemplate-dialogForm-flowHeader-gotoContent" href="#mainContent" onclick="handleOutputLinkClick(event);" class="hidden-audible" onblur="addClass(this, 'hidden-audible');" onfocus="removeClass(this, 'hidden-audible');">Go to the main content section.</a><span class="headersection"><span class="box"><span class="boxtop"><span class="boxb1-top"></span><span class="boxb2-top"></span><span class="boxb3-top"></span><span class="boxb4-top"></span></span></span><input id="dialogTemplate-dialogForm:flowHeader:ISWLDMessage" type="hidden" name="dialogTemplate-dialogForm:flowHeader:ISWLDMessage" /><input id="dialogTemplate-dialogForm:flowHeader:expiredSessionUrl" type="hidden" name="dialogTemplate-dialogForm:flowHeader:expiredSessionUrl" value="/careersection/hww_external/jobsearch.ftl?lang=en" /><span class="headerpanel"><span style="display: block; overflow: hidden;"><span class="userpanel leftpanel"><span class="username">Welcome. You are not signed in.</span><span class="hidden-audible">&nbsp;</span></span><span class="hidden-audible"  aria-hidden="true"> | </span><span class="rightpanel"><span class="metapanel"><span class="metagrouppanel"><span class="metalink"></span><a id="dialogTemplate-dialogForm-flowHeader-loginAction" href="#" title="Log in to the system" onclick="if (!event) {event = window.event;}cmdSubmit('dialogTemplate-dialogForm','dialogTemplate-dialogForm-flowHeader-loginAction',null, null, true);return taleo.core.event.setAndReturnFalse(event);">Sign In</a></span><span class="metapanel"></span></span></span><span class="clearpanel"></span></span>
+        
+            
+
+            
+            <ul class='linkpanel'>
+                
+                
+	                <li class='link' id='jobSearchTabActionS'>
+	                    <span class="magnifierimg"></span><span class="grouplink"><a id="dialogTemplate-dialogForm-flowHeader-jobSearchTabAction" href="#" title="Go to the section Job Search" onclick="if (!event) {event = window.event;}cmdSubmit('dialogTemplate-dialogForm','dialogTemplate-dialogForm-flowHeader-jobSearchTabAction',null, null, true);return taleo.core.event.setAndReturnFalse(event);">Job Search</a></span>
+	                    
+	                </li>
+                
+                    
+                
+                
+                
+                
+                
+                
+
+                
+                
+                
+                
+				
+                
+                
+                
+                
+                
+            </ul>
+            
+    
+        </span><span class="link2panel"><span class="spacerlink2panel"></span></span></span><span id="dialogTemplate-dialogForm-masterbody" class="mainsection"><a href="#" id="dialogTemplate-dialogForm-j_id_id9pc2" name="mainContent" class="hidden-audible" tabIndex="-1">Beginning of the main content section.</a>
+<input id="dialogTemplate-dialogForm:StatementBeforeAuthentificationContent:cookieDisabled" type="hidden" name="dialogTemplate-dialogForm:StatementBeforeAuthentificationContent:cookieDisabled" value="true" /><span class="mainsection"><span class="mastercontentpanel"><span class="blockpanel"><span class="metagrouppanel" style="display:inline;"><span class="metapanel" style="display: block; text-align: right; margin: 0px"><span class="metalink2"><a href="#" role="button" title="View a printable version of the privacy agreement" onclick="if (!event) {event = window.event;}cmdSubmit('dialogTemplate-dialogForm','dialogTemplate-dialogForm-StatementBeforeAuthentificationContent-j_id_id13pc6',null,'rO0ABXVyABxbTGNvbS50YWxlby5ha2lyYS51dGlsLlBhaXI7vF1o/6soCwQCAAB4cAAAAAFzcgAZY29tLnRhbGVvLmFraXJhLnV0aWwuUGFpcu5e8Mx5P5VjAgACTAAFZmlyc3R0ABJMamF2YS9sYW5nL09iamVjdDtMAAZzZWNvbmRxAH4AA3hwdAAWc2VsZWN0ZWRMb2NhbGVGb3JQYXJhbXQAAmVueQ==', true);return taleo.core.event.setAndReturnFalse(event);" class="nav-btn"><span class="nav-btn2"><span class="nav-btn3"><span class="nav-btn4"><span class="nav-btn5">Printable Format</span></span></span></span></a></span></span><script type="text/javascript">
+<!--
+
+						function checkCookie()
+						{
+						var cookieEnabled = navigator.cookieEnabled;
+						if (!cookieEnabled)
+						{
+						document.cookie = "testcookie";
+						cookieEnabled = document.cookie.indexOf("testcookie")!=-1;
+						}
+						findElementsEndingWithId(window.document.jsfForm(),'cookieDisabled',null,true)[0].value=!cookieEnabled;
+						return cookieEnabled && ifCookieEnabled();
+						}
+						function ifCookieEnabled()
+						{
+						var cookieErrorMessagePanelRef = findElementsEndingWithId(window.document.jsfForm(),'cookieErrorMessagePanel',null,true)[0];
+						if(typeof cookieErrorMessagePanelRef != "undefined")
+						cookieErrorMessagePanelRef.style.display = "none";
+						}
+						window.onload=checkCookie;
+					
+// -->
+</script>
+<span id="dialogTemplate-dialogForm-StatementBeforeAuthentificationContent-cookieErrorMessagePanel" class="message-notification"><span id="dialogTemplate-dialogForm-StatementBeforeAuthentificationContent-cookieErrorMessageTitle" class="message-title">The action cannot be completed.</span><span class="hidden-audible">&nbsp;</span><span id="dialogTemplate-dialogForm-StatementBeforeAuthentificationContent-cookieErrorMessageContent" class="message-text">Cookies are not enabled on your browser.  Please enable cookies in your browser preferences and refresh your browser to continue.</span><span class="hidden-audible">&nbsp;</span></span><span style="clear: both;"></span></span><h1 class="no-change-header"><span class="titlepage">Privacy Agreement</span><span class="hidden-audible">&nbsp;</span></h1><span class="entity-label">Select a language</span><span class="hidden-audible">&nbsp;</span><span class="inputselectpanel"><select name="dialogTemplate-dialogForm-StatementBeforeAuthentificationContent-j_id_id26pc6" class="inputselect" size="1" onchange="submit()"><option value="zh-CN">Chinese (China)</option><option value="en"  selected=" selected">English</option><option value="en-GB">English (United Kingdom)</option><option value="fr-FR">French (France)</option><option value="de">German</option><option value="it">Italian</option><option value="ja">Japanese</option><option value="pt-BR">Portuguese (Brazil)</option><option value="ru">Russian</option><option value="es">Spanish</option><option value="tr">Turkish</option></select></span><span class="separatorpanel"></span><fieldSet class="no-border"><div class='iframepanel' tabindex='0' lang='en'><div><p style="margin-top: 0px; margin-bottom: 0px;"><span style="font-family:arial"><span style="font-size:1em">&nbsp;</span></span></p>
+<p style="margin-top: 0px; margin-bottom: 0px;"><span style="font-family:arial"><span style="font-size:1em">&nbsp;</span></span></p>
+<div style="text-align:center"><strong><span style="background-color: white;"><span style="color:black"><span style="font-family:helvetica"><span style="font-size:1em">Hilton</span></span></span></span></strong></div>
+<div style="text-align:center"><span style="background-color: white;"><span style="color:black"><span style="font-family:helvetica"><span style="font-size:0.833em">&nbsp;</span></span></span></span></div>
+<div style="text-align:center"><strong><span style="background-color: white;"><span style="color:black"><span style="font-family:helvetica"><span style="font-size:0.833em">Applicant Privacy Notice</span></span></span></span></strong></div>
+<p style="margin-top: 0px; margin-bottom: 0px;;text-align:right"><strong><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">Last Updated:</span></span></span></span></strong><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">&nbsp;&nbsp;August 2020&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span></span></p>
+<div style="text-align:center"><span style="background-color: white;"><span style="color:black"><span style="font-family:helvetica"><span style="font-size:0.833em">&nbsp;</span></span></span></span></div>
+<div style="text-align:center"><span style="background-color: white;"><span style="font-family:helvetica"><span style="font-size:0.833em">&nbsp;</span></span></span></div>
+<p style="margin-top: 0px; margin-bottom: 0px;"><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">Hilton Worldwide Holdings Inc. and its direct and indirect subsidiaries (&quot;Hilton&quot;, “we”, “our” or “us”) value the trust of individuals submitting job applications on the Hilton Careers Site (“you” or “Applicant”) and are committed to the responsible management, use and protection of personal information. This Applicant Privacy Notice (this &quot;Notice&quot;) applies to all the information collected by Hilton to facilitate your job application and includes your use of our Careers Site. This Notice explains how Hilton processes the personal information that we collect through the job application process (“personal information”).&nbsp;</span></span></span></span><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:helvetica"><span style="font-size:0.833em">Please note that this Notice applies only to Hilton’s processing of your personal information on the Careers Site and if you are applying for a Hilton corporate position, or a position at a property that is managed by Hilton. You may be applying for a position at a franchised property in which case, the franchised property will process your personal data in accordance with its own policies and procedures, which may be provided to you via a separate privacy policy.</span></span></span></span></p>
+<div><span style="background-color: white;"><span style="color:black"><span style="font-family:helvetica"><span style="font-size:0.833em">&nbsp;&nbsp;</span></span></span></span></div>
+<p style="margin-top: 0px; margin-bottom: 0px;"><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">Personal information submitted to other Hilton web sites will be used in accordance with our</span></span></span></span> <a href="http://hiltonhonors3.hilton.com/en/promotions/privacy-policy/english.html"><span style="background-color: white;"><span style="color:#2da9db"><span style="font-family:arial"><span style="font-size:0.833em">Global Privacy Statement</span></span></span></span></a><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span></span></p>
+<div style="text-align:center"><span style="background-color: white;"><span style="color:black"><span style="font-family:helvetica"><span style="font-size:0.833em">&nbsp;&nbsp;</span></span></span></span></div>
+<p style="margin-top: 0px; margin-bottom: 0px;"><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">The Careers Site is operated by Hilton, 7930 Jones Branch Drive, McLean, Virginia, USA 22102, in order to support the recruitment functions of Hilton and Hilton properties. The Careers Site is not intended for distribution or use in any jurisdiction or country where such distribution or use would be contrary to local law or regulation.</span></span></span></span></p>
+<div style="text-align:center"><span style="background-color: white;"><span style="color:black"><span style="font-family:helvetica"><span style="font-size:0.833em">&nbsp;</span></span></span></span></div>
+<p style="margin-top: 0px; margin-bottom: 0px;"><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">Where local laws impose greater obligations or restrictions on the use of personal information, or require additional information to be provided to you, this Notice may be supplemented by local policies or procedures that are specific to a particular region, country or entity. <span style="text-decoration:underline">In particular, Appendix A to this Notice includes additional information applicable to Applicants residing in the European Economic Area and Switzerland (collectively, the “EEA”).</span> Where additional consent, consultation or other rights exist under local laws, Hilton’s processing of personal information will be subject to the exercise of those rights.</span></span></span></span></p>
+<div style="text-align:center"><span style="background-color: white;"><span style="color:black"><span style="font-family:helvetica"><span style="font-size:0.833em">&nbsp;</span></span></span></span></div>
+<p style="margin-top: 0px; margin-bottom: 0px;"><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">In some locations around the world, Hilton manages hotel properties on behalf of a third party owner. At many of those properties, the Hotel owner (and not Hilton) is the actual employer, and Hilton performs recruiting and hiring functions on behalf of the owner. You understand and agree that, by applying through this site, you may be applying for a position with a company other than Hilton, where Hilton is serving as the recruiter, but will not be your employer of record.&nbsp;</span></span></span></span></p>
+<div style="text-align:center"><span style="background-color: white;"><span style="color:black"><span style="font-family:helvetica"><span style="font-size:0.833em">&nbsp;</span></span></span></span></div>
+<p style="margin-top: 0px; margin-bottom: 0px;"><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">If you accept a position with Hilton or the Hotel owner, you will be considered a Hilton “Team Member” and a separate notice will govern our use of your personal information.</span></span></span></span></p>
+<div><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">&nbsp;</span></span></span></span></div>
+<p style="margin-top: 0px; margin-bottom: 0px;"><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">Some positions listed on the Hilton Careers Site are for positions with a franchised property.&nbsp; For these positions, the franchise management company or property owner (and not Hilton) is the actual employer. By providing access to the Hilton Careers site, Hilton does not perform or exercise any direction, oversight or control over any recruiting or hiring functions on behalf of franchisees and allows access to its Careers Site for applicants of these franchise entities as an optional resource only.&nbsp; You understand and agree that, by applying through this site, you may be applying for a position with a franchised property (not Hilton) and Hilton will not be your employer of record.<span style="background-color: white;"><span style="font-family:helvetica"><span style="font-size:0.833em"><br />
+&nbsp;</span></span></span></span></span></span></span></p>
+<div style="text-align:center"><strong><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">Your Acknowledgement</span></span></span></span></strong></div>
+<div><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">&nbsp;</span></span></span></span></div>
+<p style="margin-top: 0px; margin-bottom: 0px;"><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">Please read this Notice carefully and indicate your acknowledgment and acceptance of our collection, retention, use, transfer and disclosure of personal information as described in this Notice by clicking the &quot;I Accept&quot; button at the end of this Notice.</span></span></span></span></p>
+<div style="text-align:center"><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">&nbsp;</span></span></span></span><span style="background-color: white;"><span style="color:black"><span style="font-family:helvetica"><span style="font-size:0.833em">&nbsp;</span></span></span></span></div>
+<p style="margin-top: 0px; margin-bottom: 0px;"><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">Your personal information may be transferred to countries outside your home country, including countries where data protection laws may differ from those of your home country.</span></span></span></span></p>
+<div style="text-align:center"><span style="background-color: white;"><span style="color:black"><span style="font-family:helvetica"><span style="font-size:0.833em">&nbsp;</span></span></span></span></div>
+<p style="margin-top: 0px; margin-bottom: 0px;"><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">Hilton maintains safeguards designed to protect your personal information. If you are a resident of the EEA, please see Appendix A for additional information.&nbsp;<br />
+<br />
+</span></span></span></span></p>
+<div style="text-align:center"><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">&nbsp;</span></span></span></span><span style="background-color: white;"><span style="color:black"><span style="font-family:helvetica"><span style="font-size:0.833em">&nbsp;</span></span></span></span></div>
+<div style="text-align:center"><strong><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">Information We Collect</span></span></span></span></strong></div>
+<div style="text-align:center"><strong><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">&nbsp;</span></span></span></span></strong></div>
+<p style="margin-top: 0px; margin-bottom: 0px;"><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">Hilton may collect personal information in connection with your submitting to apply or searching for a position on the Hilton Careers Site.&nbsp; This includes information you provide as well as passive information collection.<strong><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">&nbsp;</span></span></span></span></strong></span></span></span></span></p>
+<ul>
+<li>
+<div><em><span style="text-decoration:underline"><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">Information You Provide<span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">&nbsp;</span></span></span></span></span></span></span></span></span></em></div>
+</li>
+</ul>
+<div style="margin-left: 2em;">
+<ul>
+<li>
+<p style="margin-top: 0px; margin-bottom: 0px;"><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">Log-in and password, for users of the Careers Site;</span></span></span></span></p>
+</li>
+<li>
+<p style="margin-top: 0px; margin-bottom: 0px;"><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">Information on how you found out about the job;</span></span></span></span></p>
+</li>
+<li>
+<p style="margin-top: 0px; margin-bottom: 0px;"><em><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">Identifiers and contact Information</span></span></span></span></em> <span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">including names and addresses, telephone numbers, mobile telephone numbers, email addresses, dates of birth, Social Security numbers, driver’s license or state identification numbers, bank account information, and other similar contact information and identifiers);</span></span></span></span></p>
+</li>
+<li>
+<p style="margin-top: 0px; margin-bottom: 0px;"><em><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">Professional and employment-related information</span></span></span></span></em> <span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">including:</span></span></span></span></p>
+<ul>
+<li>
+<p style="margin-top: 0px; margin-bottom: 0px;"><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">data submitted with employment applications including employment history and experience, employment recommendations or references, employment preferences, willingness to relocate, willingness to travel, desired salary, CV, résumé, cover letter, etc.</span></span></span></span></p>
+</li>
+<li>
+<p style="margin-top: 0px; margin-bottom: 0px;"><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">background check and criminal history;</span></span></span></span></p>
+</li>
+<li>
+<p style="margin-top: 0px; margin-bottom: 0px;"><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">work authorization;</span></span></span></span></p>
+</li>
+<li>
+<p style="margin-top: 0px; margin-bottom: 0px;"><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">fitness for duty data and reports;</span></span></span></span></p>
+</li>
+</ul>
+</li>
+<li>
+<p style="margin-top: 0px; margin-bottom: 0px;"><em><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">Education information</span></span></span></span></em> <span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">including education history such as education level, school, major, certifications held, etc.</span></span></span></span></p>
+</li>
+<li>
+<p style="margin-top: 0px; margin-bottom: 0px;"><em><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">Protected classification information</span></span></span></span></em> <span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">including characteristics of protected classifications under applicable state or federal law by your self-identification (such as Age range, Gender, Religion, Disabled, Ethnic Group).</span></span></span></span></p>
+</li>
+<li>
+<p style="margin-top: 0px; margin-bottom: 0px;"><em><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:helvetica"><span style="font-size:0.833em">Internet or other electronic network activity information</span></span></span></span></em> <span style="background-color: white;"><span style="color:#58595b"><span style="font-family:helvetica"><span style="font-size:0.833em">including all activity on the Hilton Careers Site or Hilton information systems, such as search history on the Careers Site.</span></span></span></span></p>
+<div><span style="background-color: white;"><span style="font-family:helvetica"><span style="font-size:0.833em">&nbsp;</span></span></span></div>
+</li>
+</ul>
+</div>
+<p style="margin-top: 0px; margin-bottom: 0px;"><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">Hilton may also collect the following information from applicants in the United Kingdom and Ireland and other EEA jurisdictions:&nbsp;</span></span></span></span></p>
+<div style="text-align:center"><span style="background-color: white;"><span style="color:black"><span style="font-family:helvetica"><span style="font-size:0.833em">&nbsp;</span></span></span></span></div>
+<p style="margin-top: 0px; margin-bottom: 0px;"><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">•&nbsp;Right to Work Document Type;<br />
+•&nbsp;For Visa/Work Permits,&nbsp; the type of such permit;<br />
+•&nbsp;Related to a Right to Work Document or Permit: Document Number, Country of Issue, Place of Issue, Issue Date, Expiration Date.</span></span></span></span></p>
+<div style="text-align:center"><span style="background-color: white;"><span style="color:black"><span style="font-family:helvetica"><span style="font-size:0.833em">&nbsp;</span></span></span></span></div>
+<p style="margin-top: 0px; margin-bottom: 0px;"><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">We do not require, but you may voluntarily choose to provide, other relevant information as part of your application. Please do not submit the following sensitive information unless we specifically request that you provide such information so that we may comply with our legal obligations and/or internal policies relating to diversity and anti-discrimination: sexual orientation, race, ethnic origin, religion, political and religious beliefs, disability, marital status, creed, nationality, national origin, color and/or age.</span></span></span></span></p>
+<div style="text-align:center"><span style="background-color: white;"><span style="color:black"><span style="font-family:helvetica"><span style="font-size:0.833em">&nbsp;</span></span></span></span></div>
+<p style="margin-top: 0px; margin-bottom: 0px;"><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">By voluntarily submitting information about your racial or ethnic origin; physical or mental health or condition; job evaluations or educational records; commission (or alleged commission) of an offence or related proceedings; political opinions or beliefs; religious beliefs; sex life; membership in a trade union or political party, you expressly authorize Hilton to receive and process such information for the purpose of processing your application.&nbsp;</span></span></span></span></p>
+<div style="text-align:center"><span style="background-color: white;"><span style="font-family:helvetica"><span style="font-size:0.833em">&nbsp;</span></span></span></div>
+<p style="margin-top: 0px; margin-bottom: 0px;"><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">Any information you submit must be true, complete, and not misleading and you must have the lawful right to provide it. If not, this may lead to a rejection of your application during the application process or disciplinary action including immediate dismissal if you have been hired.&nbsp;</span></span></span></span></p>
+<div style="text-align:center"><span style="background-color: white;"><span style="color:black"><span style="font-family:helvetica"><span style="font-size:0.833em">&nbsp;</span></span></span></span></div>
+<p style="margin-top: 0px; margin-bottom: 0px;"><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">If you intend to provide us with details of a reference or any other third party as part of your CV/resume, it is your responsibility to obtain consent from that third party prior to providing his/her personal information to us.&nbsp;</span></span></span></span></p>
+<div style="text-align:center"><span style="background-color: white;"><span style="color:black"><span style="font-family:helvetica"><span style="font-size:0.833em">&nbsp;</span></span></span></span></div>
+<p style="margin-top: 0px; margin-bottom: 0px;"><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">The provision of personal information, including on the Careers Site, is voluntary. Please note however that the failure to provide sufficient information may result in you being unable to be considered for employment.<span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">&nbsp;</span></span></span></span></span></span></span></span></p>
+<ul>
+<li>
+<p style="margin-top: 0px; margin-bottom: 0px;"><em><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">Passive Information Collection: Cookies and Similar Technology<span style="background-color: white;"><span style="color:black"><span style="font-family:helvetica"><span style="font-size:0.833em">&nbsp;</span></span></span></span></span></span></span></span></em></p>
+</li>
+</ul>
+<p style="margin-top: 0px; margin-bottom: 0px;"><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">We and our service providers may use &quot;cookies&quot; and similar technologies on the Careers Site. Cookies are data that a web server transfers to an individual&#39;s computer for record keeping purposes. We use cookies and other technologies to better serve you with more tailored information and facilitate your ongoing access to and use of our Careers Site. If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to automatically decline cookies, or to be given the choice of declining or accepting the transfer of a particular cookie, or cookies from a particular website, to your computer. However, if you decline session management cookies from Taleo (the third-party that hosts the Careers Site), the Careers Site may not function properly for you.</span></span></span></span></p>
+<div><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">&nbsp;</span></span></span></span></div>
+<p style="margin-top: 0px; margin-bottom: 0px;"><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">If you are an EEA resident, we are required to obtain your consent before placing certain cookies or similar technology on your computer.&nbsp; We will separately prompt you for this consent before we attempt to place a cookie or similar technology on your computer.<br />
+<br />
+</span></span></span></span></p>
+<p style="margin-top: 0px; margin-bottom: 0px;;text-align:center"><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em"><br />
+<strong>Legal Bases, Use, and Disclosure of Personal Information</strong></span></span></span></span></p>
+<div style="text-align:center"><span style="background-color: white;"><span style="color:black"><span style="font-family:helvetica"><span style="font-size:0.833em">&nbsp;</span></span></span></span></div>
+<p style="margin-top: 0px; margin-bottom: 0px;"><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">The information that you submit on the Careers Site will be stored in the United States (and in the relevant jurisdiction(s) if the job relates to one of our franchise companies or affiliated entities outside of the United States).</span></span></span></span> <span style="background-color: white;"><span style="color:#58595b"><span style="font-family:helvetica"><span style="font-size:0.833em">As a reminder, you may be applying for a position at a franchised property in which case, the franchised property will process your personal data in accordance with its own policies and procedures, which may be provided to you via a separate privacy policy.</span></span></span></span></p>
+<div><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:helvetica"><span style="font-size:0.833em">&nbsp;</span></span></span></span></div>
+<p style="margin-top: 0px; margin-bottom: 0px;"><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">The following information may be collected, used, transferred and disclosed by employees, consultants and/or service providers of Hilton around the world for Hilton&#39;s global recruitment functions and for related management and planning purposes, including, as permitted by local law, to:<span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">&nbsp;</span></span></span></span></span></span></span></span></p>
+<div style="margin-left: 2em;">
+<ul>
+<li>
+<div><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:helvetica"><span style="font-size:0.833em">Maintain personnel records and record retention requirements.</span></span></span></span></div>
+</li>
+<li>
+<p style="margin-top: 0px; margin-bottom: 0px;"><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:helvetica"><span style="font-size:0.833em">Prevent unauthorized access to or use of the Hilton’s property, including Hilton’s information systems, electronic devices, network, and data.</span></span></span></span></p>
+</li>
+<li>
+<p style="margin-top: 0px; margin-bottom: 0px;"><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:helvetica"><span style="font-size:0.833em">Investigate complaints, grievances, and suspected violations of Hilton policy.</span></span></span></span></p>
+</li>
+<li>
+<div><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:helvetica"><span style="font-size:0.833em">Design, implement, and promote Hilton’s diversity and inclusion programs</span></span></span></span></div>
+</li>
+<li>
+<p style="margin-top: 0px; margin-bottom: 0px;"><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:helvetica"><span style="font-size:0.833em">Improve safety of our facilities for employees, customers and the public with regard to use of Hilton property and equipment.</span></span></span></span></p>
+</li>
+<li>
+<p style="margin-top: 0px; margin-bottom: 0px;"><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:helvetica"><span style="font-size:0.833em">Confirm eligibility for employment and related checks regarding fitness for duty.</span></span></span></span></p>
+</li>
+<li>
+<div><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:helvetica"><span style="font-size:0.833em">Conduct background checks if you are offered a job.</span></span></span></span></div>
+</li>
+<li>
+<p style="margin-top: 0px; margin-bottom: 0px;"><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:helvetica"><span style="font-size:0.833em">Comply with applicable state and federal health, labor, employment, benefits, workers compensation, disability, equal employment opportunity, workplace safety, and related laws, guidance, or recommendations&nbsp;</span></span></span></span></p>
+</li>
+</ul>
+</div>
+<div><span style="background-color: white;"><span style="font-family:helvetica"><span style="font-size:0.833em">&nbsp;</span></span></span></div>
+<p style="margin-top: 0px; margin-bottom: 0px;"><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:helvetica"><span style="font-size:0.833em">Personal</span></span></span></span> <span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">information about you will be added to Hilton&#39;s international candidate database and may be used for the purposes of considering whether your profile is suitable for other job vacancies at Hilton. If we elect to make you an offer, personal information you submit may be incorporated into our human resources system and used to manage the new-hire process. The processing of your personal information for these purposes is based on your consent. If you become a Team Member, any personal information that you submit may become part of your Team Member file and may be used for other employment/work-related purposes and otherwise in accordance with the Hilton Team Member Privacy Notice.</span></span></span></span></p>
+<div><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">&nbsp;</span></span></span></span><span style="background-color: white;"><span style="color:black"><span style="font-family:helvetica"><span style="font-size:0.833em">&nbsp;</span></span></span></span></div>
+<p style="margin-top: 0px; margin-bottom: 0px;"><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">To the extent any use is inconsistent with or outside of the contemplated uses in this Notice, we will communicate it to you at the time of use.<br />
+<span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">&nbsp;</span></span></span></span><span style="background-color: white;"><span style="color:black"><span style="font-family:helvetica"><span style="font-size:0.833em">&nbsp;</span></span></span></span></span></span></span></span></p>
+<p style="margin-top: 0px; margin-bottom: 0px;"><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">Personal information about you will be reviewed by Hilton Team Members or agents who have a business need to access such personal information and may include recruiters, human resources personnel, technical services personnel and managers or their designees.<br />
+</span></span></span></span></p>
+<p style="margin-top: 0px; margin-bottom: 0px;"><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em"><br />
+We may share personal information about you with selected service providers or consultants acting on our behalf, such as third parties assisting Hilton with the operation of the Careers Site (including (a) Taleo (with its primary place of business at 4140 Dublin Boulevard, Suite 400, Dublin, CA 94568 USA), which is the Applicant Tracking System and hosts job openings for the Careers Site, (b) Phenom (with its primary place of business at 300 Brookside Ave., Building 18, Suite 200, Ambler, PA&nbsp; 19022), which hosts the Careers Site and talent relationship and content management system, and (c) SHL (with its primary place of business at 1 Atwell Place, Thames Ditton, Surrey, KT7 ONE UK), which conducts job-specific candidate assessments). Those third parties are required by contract to use appropriate measures to protect the confidentiality and security of personal information.<span style="background-color: white;"><span style="color:black"><span style="font-family:helvetica"><span style="font-size:0.833em">&nbsp;</span></span></span></span></span></span></span></span></p>
+<div><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">&nbsp;</span></span></span></span><span style="background-color: white;"><span style="color:black"><span style="font-family:helvetica"><span style="font-size:0.833em">&nbsp;</span></span></span></span></div>
+<div><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">Hilton also may disclose personal information about you in order to:</span></span></span></span></div>
+<div><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">&nbsp;</span></span></span></span><span style="background-color: white;"><span style="color:black"><span style="font-family:helvetica"><span style="font-size:0.833em">&nbsp;</span></span></span></span></div>
+<p style="margin-top: 0px; margin-bottom: 0px;"><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">1. Protect the legal rights, privacy, safety or property of Hilton or its Team Members, agents, contractors, customers or the public;<br />
+2. Protect the safety and security of visitors to our web sites or other properties;<br />
+3. Protect against fraud or other illegal activity or for risk management purposes;<br />
+4. Respond to inquiries or requests from legal authorities;<br />
+5. Permit Hilton to pursue available remedies or limit the damages that we may sustain;<br />
+6. Enforce our website Terms of Service;<br />
+7. Respond to an emergency;<br />
+8. Comply with the law or legal process;<br />
+9. Effect a license, sale or transfer of a business or assets (including in connection with any bankruptcy or similar proceedings); or<br />
+10. Manage acquisitions, mergers and re-organizations.</span></span></span></span></p>
+<div style="text-align:center"><span style="background-color: white;"><span style="color:black"><span style="font-family:helvetica"><span style="font-size:0.833em">&nbsp;</span></span></span></span></div>
+<div><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">&nbsp;</span></span></span></span><span style="background-color: white;"><span style="color:black"><span style="font-family:helvetica"><span style="font-size:0.833em">&nbsp;</span></span></span></span></div>
+<div style="text-align:center"><strong><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">Data Retention</span></span></span></span></strong></div>
+<div><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">&nbsp;</span></span></span></span><span style="background-color: white;"><span style="color:black"><span style="font-family:helvetica"><span style="font-size:0.833em">&nbsp;</span></span></span></span></div>
+<p style="margin-top: 0px; margin-bottom: 0px;"><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">We are required to retain information relating to candidates applying for jobs within the United States. If you are a resident of the EEA, we will retain your personal information for three years during which time we or a franchise company or affiliate may contact you regarding open positions. Personal Information of candidates applying for jobs in other parts of the world will be retained in accordance with local law. If there is no activity in relation to the personal information, Hilton may remove it from its database, subject to Hilton&#39;s data retention obligations and policies and any applicable legal or regulatory obligations or for the period of time permitted by local laws, for the purpose of considering whether your skills are suitable for other opportunities.</span></span></span></span></p>
+<div style="text-align:center"><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">&nbsp;</span></span></span></span><span style="background-color: white;"><span style="color:black"><span style="font-family:helvetica"><span style="font-size:0.833em">&nbsp;</span></span></span></span></div>
+<p style="margin-top: 0px; margin-bottom: 0px;"><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">Note that Hilton may delete personal information about you at any time (including your CV/resume), without any reason. Therefore, please retain your own copy of the personal information provided to us.<br />
+<br />
+</span></span></span></span></p>
+<div style="text-align:center"><span style="background-color: white;"><span style="color:black"><span style="font-family:helvetica"><span style="font-size:0.833em">&nbsp;</span></span></span></span><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">&nbsp;</span></span></span></span><span style="background-color: white;"><span style="color:black"><span style="font-family:helvetica"><span style="font-size:0.833em">&nbsp;</span></span></span></span></div>
+<div style="text-align:center"><strong><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">Access, Correction and Deletion</span></span></span></span></strong></div>
+<div><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">&nbsp;</span></span></span></span><span style="background-color: white;"><span style="color:black"><span style="font-family:helvetica"><span style="font-size:0.833em">&nbsp;</span></span></span></span></div>
+<p style="margin-top: 0px; margin-bottom: 0px;"><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">If you choose to register on the Careers Site, you may access, review, and change some of the personal information collected about you and stored on the Careers Site by logging into the Careers Site and choosing to update your account information. The updated profile will be used as the default the next time you apply for a job using your account online. To change personal information that you already have submitted for consideration for a specific position, please resubmit your application to update personal information about you that is associated with that job application. We encourage you to promptly update your personal information if it changes or is inaccurate. Upon your request, we will deactivate or remove your personal information from our active databases, although some information may be retained as permitted or required by law.</span></span></span></span></p>
+<div style="text-align:center"><span style="background-color: white;"><span style="color:black"><span style="font-family:helvetica"><span style="font-size:0.833em">&nbsp;</span></span></span></span></div>
+<p style="margin-top: 0px; margin-bottom: 0px;"><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">If you have any questions or concerns about how we otherwise process personal information please contact us at the e-mail link below.<span style="background-color: white;"><span style="color:black"><span style="font-family:helvetica"><span style="font-size:0.833em">&nbsp;</span></span></span></span></span></span></span></span></p>
+<div><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">&nbsp;</span></span></span></span><span style="background-color: white;"><span style="color:black"><span style="font-family:helvetica"><span style="font-size:0.833em">&nbsp;</span></span></span></span></div>
+<p style="margin-top: 0px; margin-bottom: 0px;;text-align:center"><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">[Click here to send an email to</span></span></span></span> <span style="background-color: white;"><span style="color:#2da9db"><span style="font-family:arial"><span style="font-size:0.833em">DataProtectionOffice@hilton.com</span></span></span></span><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">]</span></span></span></span></p>
+<div style="text-align:center"><span style="background-color: white;"><span style="color:black"><span style="font-family:helvetica"><span style="font-size:0.833em">&nbsp;</span></span></span></span></div>
+<p style="margin-top: 0px; margin-bottom: 0px;"><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">You may access, modify or object to the use of personal information as permitted by applicable local law. Applicants who would like to review, update, or request that we delete their personal information should go to the</span></span></span></span> <a href="https://www.hilton.com/en/data-subject-rights/"><strong><span style="background-color: white;"><span style="color:#2da9db"><span style="font-family:arial"><span style="font-size:0.833em">Data Subject Rights Portal</span></span></span></span></strong></a> <span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">or should send a request in writing to</span></span></span></span> <span style="background-color: white;"><span style="color:#2da9db"><span style="font-family:arial"><span style="font-size:0.833em">DataProtectionOffice@Hilton.com</span></span></span></span> <span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">or Hilton Data Protection Office, 7930 Jones Branch Drive, McLean, VA 22102, USA.&nbsp; Please note, however, that certain personal information may be exempt from access, correction or deletion rights pursuant to applicable data protection laws.</span></span></span></span> <span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">&nbsp;If you are a resident of a country that grants you certain rights with respect to your personal information (such as EEA residents), you may have other rights with respect to your personal information, which are explained in <strong>Appendix A.</strong><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">&nbsp;</span></span></span></span></span></span></span></span></p>
+<div style="text-align:center"><strong><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">&nbsp;</span></span></span></span></strong></div>
+<div style="text-align:center"><strong><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">&nbsp;</span></span></span></span></strong></div>
+<div style="text-align:center"><strong><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">Career Site Security<span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">&nbsp;</span></span></span></span></span></span></span></span></strong></div>
+<div style="text-align:center"><span style="background-color: white;"><span style="color:black"><span style="font-family:helvetica"><span style="font-size:0.833em">&nbsp;</span></span></span></span></div>
+<p style="margin-top: 0px; margin-bottom: 0px;"><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">We take reasonable precautions to safeguard the personal information transmitted between visitors and the Careers Site and the personal information stored on our servers. Unfortunately, no method of transmitting or storing data can be guaranteed to be 100% secure. Do not send sensitive information via email. It is your sole responsibility to use the appropriate level of care whenever communicating with us.</span></span></span></span></p>
+<div style="text-align:center"><span style="background-color: white;"><span style="color:black"><span style="font-family:helvetica"><span style="font-size:0.833em">&nbsp;</span></span></span></span></div>
+<p style="margin-top: 0px; margin-bottom: 0px;"><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">If you have reason to believe that your interaction with us is no longer secure (for example, you feel that the security of any account you might have with us has been compromised), you should immediately notify us of the problem by contacting us at the link below.<span style="background-color: white;"><span style="color:black"><span style="font-family:helvetica"><span style="font-size:0.833em">&nbsp;</span></span></span></span></span></span></span></span></p>
+<p style="margin-top: 0px; margin-bottom: 0px;;text-align:center"><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">[Click here to send an email to</span></span></span></span> <span style="background-color: white;"><span style="color:#2da9db"><span style="font-family:arial"><span style="font-size:0.833em"><a href="mailto:ISC@hilton.com">ISC@hilton.com</a></span></span></span></span><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">]<span style="background-color: white;"><span style="color:black"><span style="font-family:helvetica"><span style="font-size:0.833em">&nbsp;</span></span></span></span></span></span></span></span></p>
+<div><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">&nbsp;</span></span></span></span><span style="background-color: white;"><span style="color:black"><span style="font-family:helvetica"><span style="font-size:0.833em">&nbsp;</span></span></span></span></div>
+<p style="margin-top: 0px; margin-bottom: 0px;"><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">Hilton hereby disclaims, as far as permitted by law, any liability for itself and its affiliated companies and contractors for any of your information sent to our Careers Site that is lost, misused, illegally accessed, disclosed, altered or destroyed or not integrally or timely delivered to our Careers Site.</span></span></span></span></p>
+<div><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">&nbsp;</span></span></span></span><span style="background-color: white;"><span style="color:black"><span style="font-family:helvetica"><span style="font-size:0.833em">&nbsp;<br />
+<br />
+</span></span></span></span></div>
+<div style="text-align:center"><strong><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">Links to other websites</span></span></span></span></strong></div>
+<div style="text-align:center"><span style="background-color: white;"><span style="color:black"><span style="font-family:helvetica"><span style="font-size:0.833em">&nbsp;</span></span></span></span></div>
+<p style="margin-top: 0px; margin-bottom: 0px;"><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">The Careers Site may contain links to other websites. The operators of those other websites may collect information about you, through cookies or other technologies. If you link to another website, you will leave the Careers Site and this Notice will not apply to your use of and activity on those other sites.</span></span></span></span></p>
+<div style="text-align:center"><span style="background-color: white;"><span style="color:black"><span style="font-family:helvetica"><span style="font-size:0.833em">&nbsp;</span></span></span></span></div>
+<p style="margin-top: 0px; margin-bottom: 0px;"><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">If you provide personal information through or on any other site, your transaction will occur on that website (not the Hilton Careers Site) and the personal information you provide will be collected by, and controlled by, the privacy policy of that website operator.</span></span></span></span></p>
+<div style="text-align:center"><span style="background-color: white;"><span style="color:black"><span style="font-family:helvetica"><span style="font-size:0.833em">&nbsp;</span></span></span></span></div>
+<p style="margin-top: 0px; margin-bottom: 0px;"><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">Links on the Careers Site to other websites are provided only as a convenience, and the inclusion of such links does not imply endorsement of the linked site. We encourage you to read the legal notice posted on those sites, including their privacy policies. We have no responsibility or liability for your visits to, or the data collection or use practices of, other sites.</span></span></span></span><span style="background-color: white;"><span style="color:black"><span style="font-family:helvetica"><span style="font-size:0.833em">&nbsp;<br />
+<br />
+</span></span></span></span></p>
+<div><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">&nbsp;</span></span></span></span><span style="background-color: white;"><span style="color:black"><span style="font-family:helvetica"><span style="font-size:0.833em">&nbsp;</span></span></span></span></div>
+<p style="margin-top: 0px; margin-bottom: 0px;;text-align:center"><strong><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">Law Applicable to Job Application</span></span></span></span></strong></p>
+<div style="text-align:center"><span style="background-color: white;"><span style="color:black"><span style="font-family:helvetica"><span style="font-size:0.833em">&nbsp;&nbsp;</span></span></span></span></div>
+<p style="margin-top: 0px; margin-bottom: 0px;"><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">The Careers Site allows you to benefit from Hilton&#39;s centralized global recruitment function, while applying for jobs worldwide. This Careers Site is operated from the United States. Accordingly, any personal information you submit to the Careers Site will be collected in the U.S. and will be subject to U.S. laws. However, if we share your personal information with a Hilton entity located in another country in its capacity as a potential employer (or acting as recruiter for a Hotel owner), the Hilton entity &nbsp;will handle your personal information in accordance with this Notice. Franchisee entities may handle your information pursuant to a separate privacy notice they may provide to you. Any hiring or other employment-related decisions will be made by the hiring entity in accordance with the laws of the country where the job will be located.&nbsp; Furthermore, if you are an EEA resident, please see Appendix A for additional information on International Data Transfers.</span></span></span></span></p>
+<div style="text-align:center"><span style="background-color: white;"><span style="color:black"><span style="font-family:helvetica"><span style="font-size:0.833em">&nbsp;</span></span></span></span></div>
+<div style="text-align:center"><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">&nbsp;</span></span></span></span></div>
+<div style="text-align:center"><strong><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">About Children<span style="background-color: white;"><span style="color:black"><span style="font-family:helvetica"><span style="font-size:0.833em">&nbsp;</span></span></span></span></span></span></span></span></strong></div>
+<div><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">&nbsp;</span></span></span></span><span style="background-color: white;"><span style="color:black"><span style="font-family:helvetica"><span style="font-size:0.833em">&nbsp;</span></span></span></span></div>
+<p style="margin-top: 0px; margin-bottom: 0px;"><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">The Careers Site is not intended for minors under the age of 15 or the lawful age of employment (whichever is greater) in any country in which we operate.<span style="background-color: white;"><span style="color:black"><span style="font-family:helvetica"><span style="font-size:0.833em">&nbsp;<br />
+<br />
+</span></span></span></span></span></span></span></span></p>
+<div style="text-align:center"><strong><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em"><br />
+Changes to the Notice</span></span></span></span></strong></div>
+<div><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">&nbsp;</span></span></span></span></div>
+<p style="margin-top: 0px; margin-bottom: 0px;"><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">We reserve the right to amend this Notice at any time without advance notice in order to address future developments of Hilton, the Careers Site or changes in industry or legal trends. We will post the revised Notice on the Careers Site or announce the change on the home page of the Careers Site. You can determine when the Notice was revised by referring to the &quot;Last Updated&quot; legend on the top of this Notice. Any changes will become effective upon the posting of the revised Notice on the Careers Site. By continuing to use the Careers Site following such changes, you will be deemed to have agreed to such changes. If you do not agree with the terms of this Notice, in whole or part, you can choose to not continue to use the Careers Site.<span style="background-color: white;"><span style="color:black"><span style="font-family:helvetica"><span style="font-size:0.833em">&nbsp;</span></span></span></span></span></span></span></span></p>
+<p style="margin-top: 0px; margin-bottom: 0px;;text-align:center"><strong><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em"><br />
+<br />
+Additional Provisions for EEA-Based Applicants</span></span></span></span></strong></p>
+<div style="text-align:center"><span style="background-color: white;"><span style="color:black"><span style="font-family:helvetica"><span style="font-size:0.833em">&nbsp;</span></span></span></span></div>
+<p style="margin-top: 0px; margin-bottom: 0px;"><strong><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">Please see Appendix A</span></span></span></span></strong> <span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">for additional provisions that pertain to you if you are a resident of the EEA. &nbsp;</span></span></span></span></p>
+<div style="text-align:center"><span style="background-color: white;"><span style="color:black"><span style="font-family:helvetica"><span style="font-size:0.833em">&nbsp;<br />
+<br />
+</span></span></span></span></div>
+<span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em"><br />
+</span></span></span></span> 
+
+<div><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">&nbsp;</span></span></span></span></div>
+<div style="text-align:center"><strong><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">APPENDIX A</span></span></span></span></strong></div>
+<div style="text-align:center"><span style="background-color: white;"><span style="color:black"><span style="font-family:helvetica"><span style="font-size:0.833em">&nbsp;</span></span></span></span></div>
+<p style="margin-top: 0px; margin-bottom: 0px;;text-align:center"><strong><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">ADDITIONAL PROVISIONS APPLICABLE TO PROCESSING OF PERSONAL INFORMATION OF EEA APPLICANTS<span style="background-color: white;"><span style="color:black"><span style="font-family:helvetica"><span style="font-size:0.833em">&nbsp;</span></span></span></span></span></span></span></span></strong></p>
+<div><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">&nbsp;</span></span></span></span></div>
+<div style="text-align:center"><span style="background-color: white;"><span style="color:black"><span style="font-family:helvetica"><span style="font-size:0.833em">&nbsp;</span></span></span></span></div>
+<p style="margin-top: 0px; margin-bottom: 0px;"><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">For EEA-based applicants, this Appendix outlines certain additional information that Hilton is obligated to provide to you, as well as certain rights you have with respect to the processing of your personal information, pursuant to applicable local laws.<span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">&nbsp;</span></span></span></span></span></span></span></span></p>
+<div style="text-align:center"><span style="background-color: white;"><span style="color:black"><span style="font-family:helvetica"><span style="font-size:0.833em">&nbsp;</span></span></span></span></div>
+<div><strong><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">Hilton Controller:<span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">&nbsp;</span></span></span></span></span></span></span></span></strong></div>
+<div style="text-align:center"><span style="background-color: white;"><span style="color:black"><span style="font-family:helvetica"><span style="font-size:0.833em">&nbsp;</span></span></span></span></div>
+<p style="margin-top: 0px; margin-bottom: 0px;"><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">Hilton Domestic Operating Company Inc. is the data controller with respect to your personal information and can be contacted by email at</span></span></span></span> <span style="background-color: white;"><span style="color:#2da9db"><span style="font-family:arial"><span style="font-size:0.833em">DataProtectionOffice@Hilton.com</span></span></span></span> <span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">or at the following address:<span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">&nbsp;</span></span></span></span></span></span></span></span></p>
+<div style="text-align:center"><span style="background-color: white;"><span style="color:black"><span style="font-family:helvetica"><span style="font-size:0.833em">&nbsp;</span></span></span></span></div>
+<p style="margin-top: 0px; margin-bottom: 0px;"><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">Hilton Data Protection Officer<br />
+7930 Jones Branch Drive<br />
+McLean, Virginia 22102 USA<span style="background-color: white;"><span style="color:black"><span style="font-family:helvetica"><span style="font-size:0.833em">&nbsp;<span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">&nbsp;<br />
+</span></span></span></span></span></span></span></span></span></span></span></span></p>
+<div style="text-align:center"><span style="background-color: white;"><span style="color:black"><span style="font-family:helvetica"><span style="font-size:0.833em">&nbsp;</span></span></span></span></div>
+<div><strong><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">Purposes and Legal Basis for Processing<span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">&nbsp;</span></span></span></span></span></span></span></span></strong></div>
+<div style="text-align:center"><span style="background-color: white;"><span style="color:black"><span style="font-family:helvetica"><span style="font-size:0.833em">&nbsp;</span></span></span></span></div>
+<p style="margin-top: 0px; margin-bottom: 0px;"><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">Hilton processes your personal information for the purpose of either recruiting and evaluating candidates for employment, or to allow franchisee entities to access your personal information if you are applying for a position at a franchised property.&nbsp; Hilton processes your information pursuant to its legitimate business interests and, in some cases, based on your consent.<br />
+<br />
+</span></span></span></span></p>
+<div><strong><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">Data Subject Rights<span style="background-color: white;"><span style="color:black"><span style="font-family:helvetica"><span style="font-size:0.833em">&nbsp;<span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">&nbsp;</span></span></span></span></span></span></span></span></span></span></span></span></strong></div>
+<div style="text-align:center"><span style="background-color: white;"><span style="color:black"><span style="font-family:helvetica"><span style="font-size:0.833em">&nbsp;</span></span></span></span></div>
+<strong><em><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">Access, Correction and Erasure Requests:</span></span></span></span></em></strong> <span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">Applicants who would like to review, update, or request that we delete their personal information should go to the</span></span></span></span> <span style="font-family:calibri"><a href="https://www.hilton.com/en/data-subject-rights/"><strong><span style="background-color: white;"><span style="color:#2da9db"><span style="font-family:arial"><span style="font-size:0.833em">Data Subject Rights Portal</span></span></span></span></strong></a></span> <span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">or should send a request in writing to</span></span></span></span> <span style="font-family:calibri"><span style="background-color: white;"><span style="color:#2da9db"><span style="font-family:arial">DataProtectionOffice@Hilton.com</span></span></span></span> <span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">or Hilton Data Protection Office, 7930 Jones Branch Drive, McLean, VA 22102, USA.&nbsp; Please note, however, that certain personal information may be exempt from access, correction or deletion rights pursuant to applicable data protection laws<span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em"><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">.<span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">&nbsp;</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span> 
+
+<div style="text-align:center"><span style="background-color: white;"><span style="color:black"><span style="font-family:helvetica"><span style="font-size:0.833em">&nbsp;</span></span></span></span></div>
+<p style="margin-top: 0px; margin-bottom: 0px;"><strong><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">Restriction Requests:</span></span></span></span></strong> <span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">Applicants who would like to request that Hilton cease processing of certain personal information should go to the</span></span></span></span> <a href="https://www.hilton.com/en/data-subject-rights/"><strong><span style="background-color: white;"><span style="color:#2da9db"><span style="font-family:arial"><span style="font-size:0.833em">Data Subject Rights Portal</span></span></span></span></strong></a> <span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">or should send a request in writing to</span></span></span></span> <span style="background-color: white;"><span style="color:#2da9db"><span style="font-family:arial">DataProtectionOffice@Hilton.com</span></span></span> <span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">or Hilton Data Protection Office, 7930 Jones Branch Drive, McLean, VA 22102, USA.<span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">&nbsp;</span></span></span></span></span></span></span></span></p>
+<div style="text-align:center"><span style="background-color: white;"><span style="color:black"><span style="font-family:helvetica"><span style="font-size:0.833em">&nbsp;</span></span></span></span></div>
+<p style="margin-top: 0px; margin-bottom: 0px;"><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">Please note, however, that certain personal information may be exempt from such requests pursuant to applicable data protection laws.<span style="background-color: white;"><span style="color:black"><span style="font-family:helvetica"><span style="font-size:0.833em">&nbsp;</span></span></span></span></span></span></span></span></p>
+<p style="margin-top: 0px; margin-bottom: 0px;"><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em"><br />
+<strong>Data Portability Requests:</strong> Applicants who would like to request a copy of certain of their personal information, or request that such personal information be transmitted to a third party, should go to the</span></span></span></span> <a href="https://www.hilton.com/en/data-subject-rights/"><strong><span style="background-color: white;"><span style="color:#2da9db"><span style="font-family:arial"><span style="font-size:0.833em">Data Subject Rights Portal</span></span></span></span></strong></a> <span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">or should send a request in writing to</span></span></span></span> <span style="background-color: white;"><span style="color:#2da9db"><span style="font-family:arial">DataProtectionOffice@Hilton.com</span></span></span> <span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">or Hilton Data Protection Office, 7930 Jones Branch Drive, McLean, VA 22102, USA.&nbsp; Please note, however, that data portability rights apply only in limited circumstances and to limited data sets.<span style="background-color: white;"><span style="color:black"><span style="font-family:helvetica"><span style="font-size:0.833em">&nbsp;</span></span></span></span></span></span></span></span></p>
+<div><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">&nbsp;</span></span></span></span></div>
+<div style="text-align:center"><span style="background-color: white;"><span style="color:black"><span style="font-family:helvetica"><span style="font-size:0.833em">&nbsp;</span></span></span></span></div>
+<div><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">Disclosures of your Information<span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">&nbsp;</span></span></span></span></span></span></span></span></div>
+<div style="text-align:center"><span style="background-color: white;"><span style="color:black"><span style="font-family:helvetica"><span style="font-size:0.833em">&nbsp;</span></span></span></span></div>
+<p style="margin-top: 0px; margin-bottom: 0px;"><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">In order to administer and manage the job application process, and to otherwise perform the activities set forth in this Notice, your information will be shared with other Hilton personnel, such as personnel responsible for hiring determinations, members of the human resources team, as well as other employees and individuals within Hilton involved in the recruitment and selection process. Hilton will provide franchisee entities with access to your information if you are applying for a job with a franchise property.<span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">&nbsp;</span></span></span></span></span></span></span></span></p>
+<div style="text-align:center"><span style="background-color: white;"><span style="color:black"><span style="font-family:helvetica"><span style="font-size:0.833em">&nbsp;</span></span></span></span></div>
+<p style="margin-top: 0px; margin-bottom: 0px;"><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">Your information will be shared with various third party service providers engaged by Hilton to support its recruitment efforts for its corporate offices and owned and managed properties. These third parties include:<span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">&nbsp;</span></span></span></span></span></span></span></span></p>
+<div style="text-align:center"><span style="background-color: white;"><span style="color:black"><span style="font-family:helvetica"><span style="font-size:0.833em">&nbsp;</span></span></span></span></div>
+<p style="margin-top: 0px; margin-bottom: 0px;"><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">•&nbsp;human resources services, performance management and talent management</span></span></span></span></p>
+<div style="text-align:center"><span style="background-color: white;"><span style="font-family:helvetica"><span style="font-size:0.833em">&nbsp;</span></span></span></div>
+<div><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">•&nbsp;back office IT systems suppliers and providers<span style="background-color: white;"><span style="color:black"><span style="font-family:helvetica"><span style="font-size:0.833em">&nbsp;</span></span></span></span></span></span></span></span></div>
+<div style="text-align:center"><span style="background-color: white;"><span style="color:black"><span style="font-family:helvetica"><span style="font-size:0.833em">&nbsp;</span></span></span></span></div>
+<p style="margin-top: 0px; margin-bottom: 0px;"><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">We will also share information with legal and regulatory authorities and our accountants, auditors, lawyers and other outside professional advisors.</span></span></span></span></p>
+<div style="text-align:center"><span style="background-color: white;"><span style="color:black"><span style="font-family:helvetica"><span style="font-size:0.833em">&nbsp;</span></span></span></span></div>
+<div><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">We also share information with third parties:<span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">&nbsp;</span></span></span></span></span></span></span></span></div>
+<div style="text-align:center"><span style="background-color: white;"><span style="color:black"><span style="font-family:helvetica"><span style="font-size:0.833em">&nbsp;</span></span></span></span></div>
+<p style="margin-top: 0px; margin-bottom: 0px;"><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">•&nbsp;if, in good faith, we believe that the disclosure is required to comply with a judicial proceeding, court order, subpoena, warrant or legal process, and such disclosure is in compliance with local law;<span style="background-color: white;"><span style="color:black"><span style="font-family:helvetica"><span style="font-size:0.833em">&nbsp;</span></span></span></span></span></span></span></span></p>
+<p style="margin-top: 0px; margin-bottom: 0px;"><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em"><br />
+•&nbsp;in the event of a merger or acquisition, asset sale, a transfer of some or all of Hilton’s business, or other related transaction; and<span style="background-color: white;"><span style="color:black"><span style="font-family:helvetica"><span style="font-size:0.833em">&nbsp;</span></span></span></span></span></span></span></span></p>
+<p style="margin-top: 0px; margin-bottom: 0px;"><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em"><br />
+•&nbsp;when we believe in good faith that disclosure is required by law or to protect the safety of our employees, the public or Hilton property.<span style="background-color: white;"><span style="color:black"><span style="font-family:helvetica"><span style="font-size:0.833em">&nbsp;</span></span></span></span></span></span></span></span></p>
+<div style="text-align:center"><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">&nbsp;</span></span></span></span></div>
+<div style="text-align:center"><span style="background-color: white;"><span style="color:black"><span style="font-family:helvetica"><span style="font-size:0.833em">&nbsp;</span></span></span></span></div>
+<div><strong><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">International Data Transfers</span></span></span></span></strong></div>
+<div style="text-align:center"><span style="background-color: white;"><span style="color:black"><span style="font-family:helvetica"><span style="font-size:0.833em">&nbsp;</span></span></span></span></div>
+<p style="margin-top: 0px; margin-bottom: 0px;"><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">We reserve the right to transfer your personal information to, or process your personal information in, countries that have not been found by the European Commission to provide adequate protection. In particular, we collect and store the personal information you provide via the Careers Site in the United States.<span style="background-color: white;"><span style="color:black"><span style="font-family:helvetica"><span style="font-size:0.833em">&nbsp;</span></span></span></span></span></span></span></span></p>
+<div><span style="background-color: white;"><span style="color:black"><span style="font-family:helvetica"><span style="font-size:0.833em">&nbsp;</span></span></span></span></div>
+<p style="margin-top: 0px; margin-bottom: 0px;"><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">We use appropriate safeguards for the transfer of personal information among our affiliates in various jurisdictions, and where required, we have implemented European Union controller-to-controller standard contractual clauses or other such safeguards for such purposes. To obtain a copy of theses clauses or additional information on transfers, you may send your request to</span></span></span></span> <span style="background-color: white;"><span style="color:#2da9db"><span style="font-family:arial"><span style="font-size:0.833em">privacy@hilton.com</span></span></span></span><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">.</span></span></span></span></p>
+<div><strong><span style="background-color: white;"><span style="font-family:arial"><span style="font-size:0.833em">&nbsp;&nbsp;<span style="font-family:arial"><span style="font-size:1em">&nbsp;<br />
+<br />
+</span></span></span></span></span></strong></div>
+<div><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em"><strong>Complaints<br />
+<span style="font-size:1em"><br />
+</span></strong></span></span></span></span></div>
+<p style="margin-top: 0px; margin-bottom: 0px;"><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">You have the right to lodge a complaint regarding the processing of your personal information with us at</span></span></span></span> <span style="background-color: white;"><span style="color:#2da9db"><span style="font-family:arial"><span style="font-size:0.833em">privacy@hilton.com</span></span></span></span> <span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">or with the supervisory authority in the Member State of your residence or place of work if you believe that the processing of your personal information infringes applicable local laws.<br />
+</span></span></span></span></p>
+<div style="text-align:center"><span style="background-color: white;"><span style="color:black"><span style="font-family:helvetica"><span style="font-size:0.833em">&nbsp;</span></span></span></span></div>
+<p style="margin-top: 0px; margin-bottom: 0px;"><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em"><br />
+<strong>Privacy Notice Changes<br />
+<br />
+</strong></span></span></span></span></p>
+<p style="margin-top: 0px; margin-bottom: 0px;"><span style="background-color: white;"><span style="color:#58595b"><span style="font-family:arial"><span style="font-size:0.833em">This Notice may be changed from time to time. You can determine when this Notice was last revised by referring to the “Last Updated” legend at the top of this Notice. Any changes to this Notice will become effective upon our posting of the revised Notice on the Careers Site.</span></span></span></span></p></div></div></fieldSet><span class="separatorpanel"></span><input id="dialogTemplate-dialogForm-StatementBeforeAuthentificationContent-ContinueButton" type="button" name="dialogTemplate-dialogForm-StatementBeforeAuthentificationContent-ContinueButton" value="I Accept" title="I Accept" onclick="if (!event) {event = window.event;}cmdSubmit('dialogTemplate-dialogForm','dialogTemplate-dialogForm-StatementBeforeAuthentificationContent-ContinueButton',null, null, true);return taleo.core.event.setAndReturnFalse(event);" /><input id="dialogTemplate-dialogForm-StatementBeforeAuthentificationContent-CancelButton" type="button" name="dialogTemplate-dialogForm-StatementBeforeAuthentificationContent-CancelButton" value="I Decline" title="I Decline" onclick="if (!event) {event = window.event;}cmdSubmit('dialogTemplate-dialogForm','dialogTemplate-dialogForm-StatementBeforeAuthentificationContent-CancelButton',null, null, true);return taleo.core.event.setAndReturnFalse(event);" /></span></span></span></span></span></span><input type="hidden" name="javax.faces.ViewState" id="javax.faces.ViewState" value="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" autocomplete="off" /><input type="hidden" id="stateSavers" name="stateSavers" value="H4sIAAAAAAAAAFvzloG1uIhBLiuxLFGvtCQzR885PycnNbkkMz+vWMU1t6CkMji1RPRrkewW5tMaTAwMFQWVADrPGpc0AAAA" />
+<input type="hidden" id="jsfCmdId" name="jsfCmdId" />
+<input type="hidden" id="isLegalDisclaimerAcceptPending" name="isLegalDisclaimerAcceptPending" />
+<input type="hidden" id="bookmarkURLHF" name="bookmarkURLHF" value="https://hilton.taleo.net/careersection/careersection/privacyagreement/statementBeforeAuthentification.jsf?cookieDisabled=null&amp;isLegalDisclaimerAcceptPending=null&amp;navigateTo=null&amp;portal=40140165241&amp;redirectionURI=https://hilton.taleo.net/careersection/application.jss?lang=en&amp;type=1&amp;csNo=10380&amp;portal=40140165241&amp;reqNo=1242457&amp;iniurl.src=JB-11960&amp;isOnLogoutPage=true" />
+<input type="hidden" id="tz" name="tz" />
+<input type="hidden" id="dialogTemplate-dialogForm" name="dialogTemplate-dialogForm" value="dialogTemplate-dialogForm" />
+<input type="hidden" id="langDirection" name="langDirection" value="ltr" />
+<input type="hidden" id="navigateTo" name="navigateTo" />
+<input type="hidden" id="vmAction" name="vmAction" />
+<input type="hidden" id="cookieDisabled" name="cookieDisabled" />
+<input type="hidden" id="bookmarkNameHF" name="bookmarkNameHF" value="Privacy Agreement" />
+<input type="hidden" id="tno" name="tno" value="1" />
+<input type="hidden" id="jsfCmdParams" name="jsfCmdParams" />
+<input type="hidden" id="portal" name="portal" value="40140165241" />
+<input type="hidden" id="lang" name="lang" value="en" />
+<input type="hidden" id="csrftoken" name="csrftoken" value="SMjnsonMnABcaEmFtkev6kPcqqHCCCR9OAEdIs9a4Dk=" />
+<input type="hidden" id="redirectionURI" name="redirectionURI" value="https://hilton.taleo.net/careersection/application.jss?lang=en&amp;type=1&amp;csNo=10380&amp;portal=40140165241&amp;reqNo=1242457&amp;iniurl.src=JB-11960&amp;isOnLogoutPage=true" />
+</form>
+<script type="text/javascript">
+<!--
+addEvent(window, "load", installCoreRequiredEvents);
+
+// -->
+</script>
+
+        </div><div class="tux-footer">
+
+			<div class="top">
+				<div class="wrapper">
+					
+				</div>
+			</div>
+
+			<div class="middle">
+				<div class="wrapper">
+				
+				</div>
+			</div>
+
+
+				<div class="bottom">	
+					<div class="wrapper">
+		        		<div>
+		        			<p class="copy">Copyright © <span></span> Hilton</p>
+						</div>
+						<div>
+							<div>
+								<h3>@HiltonCareers</h3>
+							</div>
+							<ul><li><a href="https://www.glassdoor.co.in/Overview/Working-at-Hilton-EI_IE330.11,17.htm?countryRedirect=true" shape="rect">Glassdoor</a></li><li><a href="https://www.facebook.com/hiltoncareers/" shape="rect">Facebook</a></li><li><a href="https://www.linkedin.com/company/hilton" shape="rect">LinkedIn</a></li><li><a href="https://www.youtube.com/user/hiltonworldwide" shape="rect">YouTube</a></li><li><a href="https://twitter.com/HiltonNewsroom" shape="rect">Twitter</a></li><li><a href="https://www.instagram.com/hiltoncareers/" shape="rect">Instagram</a></li></ul>	
+						</div>
+					</div>
+				</div>
+</div><script fn="http://www.w3.org/2005/xpath-functions" type="text/javascript" src="/careersection/theme/11611121/1610033166000/en/theme/js/branding.extension-dec23.js" space="preserve"></script></body></html>
